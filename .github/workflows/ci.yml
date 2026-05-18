@@ -37,7 +37,7 @@ jobs:
         uses: actions/configure-pages@v5
         with:
           enablement: true
-      - name: Install Node.js dependencies
+      - name: Install NPM dependencies
         run: |
           "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
           npx @tailwindcss/cli -i ./assets/css/main.css -o assets/css/output.css
