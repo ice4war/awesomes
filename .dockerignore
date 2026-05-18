@@ -1,0 +1,10 @@
+node_modules
+public
+dist
+.hugo_build.lock
+hugo_stats.json
+package-lock.json
+.gitignore
+.git/*
+.gitmodules
+assets/output.css

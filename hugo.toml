@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Awesomes'
+theme = "blogger"
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 20

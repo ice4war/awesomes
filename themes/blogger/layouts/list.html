@@ -1,0 +1,14 @@
+{{define "main"}}
+{{ .Content }}
+<ul class="flex flex-wrap p-4">
+    {{ range.Data.Pages }}
+    <li class="card m-4">
+        <article class="content">
+                <h3 class="font-bold text-2xl text-center">
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h3>
+        </article>
+    </li>
+    {{ end }}
+</ul>
+{{end}}
