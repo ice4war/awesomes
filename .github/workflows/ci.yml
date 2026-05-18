@@ -39,8 +39,8 @@ jobs:
           enablement: true
       - name: Install NPM dependencies
         run: |
-          "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-          npx @tailwindcss/cli -i ./assets/css/main.css -o assets/css/output.css
+            npm ci &&\
+            npx @tailwindcss/cli -i ./assets/css/main.css -o assets/css/output.css
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
