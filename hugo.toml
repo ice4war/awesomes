@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ice4war.github.io/awesomes/'
 locale = 'en-us'
 title = 'Awesomes'
 ignoreLogs = ['warning-goldmark-raw-html']
