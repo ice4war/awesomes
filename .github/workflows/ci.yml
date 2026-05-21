@@ -1,9 +1,6 @@
 name: ci
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:
@@ -56,6 +53,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v5
   build-docker:
+    needs: build-pages
     runs-on: ubuntu-latest
     steps:
       - name: Check out the repo
@@ -76,11 +74,3 @@ jobs:
           tags: |
             ${{ secrets.DOCKERHUB_USERNAME }}/portfolio:v1.0.0
             ${{ secrets.DOCKERHUB_USERNAME }}/portfolio:latest
-      - name: Push to Dev
-        if: github.ref != 'refs/heads/main'
-        uses: docker/build-push-action@v5
-        with:
-          context: .
-          push: true
-          tags: |
-            ${{ secrets.DOCKERHUB_USERNAME }}/portfolio:test

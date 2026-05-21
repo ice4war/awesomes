@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'Awesomes'
-theme = "blogger"
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [menu]
