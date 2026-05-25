@@ -3,17 +3,21 @@ relativeURLs = true
 locale = 'en-us'
 title = 'Awesomes'
 ignoreLogs = ['warning-goldmark-raw-html']
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
 
 [menu]
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
-    url = "/"
+    url = "/posts"
     weight = 10
 
   [[menu.main]]
-    identifier = "aboust"
+    identifier = "about"
     name = "About"
     url = "/about"
     weight = 20
-defaultContentLanguageInSubdir = true

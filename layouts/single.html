@@ -7,11 +7,13 @@
     <p>{{.Description}}</p>
     <div class="grid grid-cols-[1fr_300px] gap-4">
         <section class="overflow-auto">{{.Content}}</section>
+        {{if .TableOfContents}}
         <div
             class="toc prose dark:prose-invert prose-a:no-underline prose-a:hover:underline  max-h-fit max-w-full p-3 overflow-hidden"
         >
             {{.TableOfContents}}
         </div>
+        {{end}}
     </div>
 </article>
 {{end}}

@@ -264,3 +264,6 @@ body {
 .card .content p{
     display: none;
 }
+#TableOfContents li:empty,#TableOfContents ul:empty {
+    display: none;
+}
