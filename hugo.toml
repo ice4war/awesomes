@@ -8,11 +8,12 @@ ignoreLogs = ['warning-goldmark-raw-html']
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
-    url = "/posts"
+    url = "/"
     weight = 10
 
   [[menu.main]]
-    identifier = "about"
+    identifier = "aboust"
     name = "About"
     url = "/about"
     weight = 20
+defaultContentLanguageInSubdir = true

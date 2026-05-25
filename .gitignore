@@ -3,5 +3,4 @@ public
 dist
 .hugo_build.lock
 hugo_stats.json
-package-lock.json
 assets/output.css
