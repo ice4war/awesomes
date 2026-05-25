@@ -49,7 +49,7 @@ jobs:
         run: |
           npm i \
           && npx @tailwindcss/cli -i ./assets/css/main.css -o ./assets/css/output.css \
-          && hugo --minify
+          && hugo --minify -e production
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
