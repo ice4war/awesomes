@@ -1,13 +1,11 @@
 <header class="lg:flex p-5 gap-5">
     <nav class="flex w-full justify-between">
         <div class="block text-2xl font-bold">
-            <a class="logo" href="{{ .Site.BaseURL }}">
-                {{ .Site.Title }}
-            </a>
+            <a class="logo" href="{{ .Site.BaseURL }}"> {{ .Site.Title }} </a>
         </div>
         <ul class="flex flex-col lg:flex-row lg:gap-5">
             {{ range.Site.Menus.main }}
-            <li class="">
+            <li>
                 <a href="{{ .URL }}">{{ .Name }}</a>
             </li>
             {{ end }}

@@ -3,6 +3,10 @@ relativeURLs = true
 locale = 'en-us'
 title = 'Awesomes'
 ignoreLogs = ['warning-goldmark-raw-html']
+disableKinds = ["rss","sitemap"]
+disableLandingPage = false
+[params]
+  custom_css = ["css/style.css"]
 [markup]
   [markup.tableOfContents]
     startLevel = 2

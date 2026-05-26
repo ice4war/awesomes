@@ -48,8 +48,7 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           npm i \
-          && npx @tailwindcss/cli -i ./assets/css/main.css -o ./assets/css/output.css \
-          && npx @tailwindcss/cli -i ./assets/css/main.css -o static/css/style.css \
+          && npx @tailwindcss/cli -i ./assets/css/main.css -o ./static/css/style.css \
           && hugo --minify -e production
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
