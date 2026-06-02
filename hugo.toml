@@ -1,5 +1,5 @@
 baseURL = '/'
-relativeURLs = true
+relativeURLs = false
 locale = 'en-us'
 title = 'Awesomes'
 ignoreLogs = ['warning-goldmark-raw-html']
