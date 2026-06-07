@@ -1,9 +1,9 @@
 {{define "main"}}
 
-<article class="prose prose-sky overflow-hidden">
+<article id="top" class="prose prose-sky overflow-hidden">
     <h1>{{.Title}}</h1>
     <p>{{.Description}}</p>
-    <div class="article-content grid grid-cols-[1fr_300px] gap-4">
+    <div class="article-content gap-4">
         <section class="overflow-auto">{{.Content}}</section>
         {{if .TableOfContents}}
         <div class="toc prose">{{.TableOfContents}}</div>
