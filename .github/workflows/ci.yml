@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: false
   group: pages
 jobs:
-  build:
+  build-site:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -32,7 +32,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: build-pages
+    needs: build-site
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
