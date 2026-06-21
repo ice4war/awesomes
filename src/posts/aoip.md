@@ -12,7 +12,7 @@ tags: ['lisp', 'scheme', 'common-lisp']
 
 In the professional audio sector, Audio over IP (AoIP) is about transmitting uncompressed, low-latency audio over an IP (layer 3) network. Popular examples of protocols are [Dante](https://en.wikipedia.org/wiki/Dante_(networking)), [AES67](https://en.wikipedia.org/wiki/AES67) and [Ravenna](https://en.wikipedia.org/wiki/Ravenna_(networking)).
 
-This list is short, partly due to excluding unmaintained projects. Check out the [Footnotes](#footnotes) section at the bottom and [awesome-but-inactive](awesome-but-inactive.md.html), if you prefer a more lenient approach. In General, the AoIP ecosystem is still growing and there is rather sparse tooling available at the moment. Hence, if you find anything missing, it would delight me if you open a PR to add it.
+This list is short, partly due to excluding unmaintained projects. Check out the [Footnotes](#footnotes) section at the bottom and [awesome-but-inactive], if you prefer a more lenient approach. In General, the AoIP ecosystem is still growing and there is rather sparse tooling available at the moment. Hence, if you find anything missing, it would delight me if you open a PR to add it.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md.html) first.
 

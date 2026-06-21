@@ -1,10 +1,10 @@
 ---
 title: "Testing"
-description: "![](https://github.com/TheJambo/awesome-testing/blob/master/AwesomeTesting.jpg?raw=true)"
+description: "![](https://github.com/TheJambo/raw=true)"
 tags: ['tools', 'devtools', 'editor', 'vscode', 'vim']
 ---
 
-![](https://github.com/TheJambo/awesome-testing/blob/master/AwesomeTesting.jpg?raw=true)
+![](https://github.com/TheJambo/raw=true)
 
 # Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Dead link checker](https://github.com/TheJambo/awesome-testing/actions/workflows/404-links.yml/badge.svg)](https://github.com/TheJambo/awesome-testing/actions/workflows/404-links.yml)
 > A curated list of testing software, extensions and resources
@@ -189,7 +189,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Suggested Awesome Lists
 
 ### Must Read
-- [Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
+- [Falsehoods](https://github.com/kdeldycke/
 - [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
 - [Unicode](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 

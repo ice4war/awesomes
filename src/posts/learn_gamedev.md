@@ -1,10 +1,10 @@
 ---
 title: "Learn Gamedev"
-description: "[](https://en.wikipedia.org/wiki/Easter_egg_(media))"
+description: "[](https://en.wikipedia.org/wiki/Easter_egg_"
 tags: ['game', 'gamedev', 'games']
 ---
 
-[](https://en.wikipedia.org/wiki/Easter_egg_(media))
+[](https://en.wikipedia.org/wiki/Easter_egg_
 
 ---
 title: Awesome Learn Gamedev
@@ -55,7 +55,7 @@ tags:
 
 
 
-![An illustration of a cream-and-orange calico cat that Hazel uses as her profile icon :3](images/KittyIcon.png 'Check out my portfolio below!')
+![An illustration of a cream-and-orange calico cat that Hazel uses as her profile icon :3]
 
 ### 💜 Curated by [Hazel Kennedy](https://linktr.ee/dawdledoodles) 💜
 
@@ -649,7 +649,7 @@ Royalty free music! Don't forget to check the license.
 
 [Questions to ask game studios you're interviewing with](https://lindenreidblog.com/2020/05/21/questions-to-ask-game-studios-youre-interviewing-with/) 🟪 - A list of questions for you to ask a potential employer in an interview.
 
-[The Reverse Interview](https://github.com/viraptor/reverse-interview) - Another list for you to ask a potential employer (created for non-games tech, but most questions apply to games, and some apply to all disciplines).
+[The Reverse Interview](https://github.com/viraptor/reverse-interview) - Another list for you to ask a potential employer .
 
 [Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) 🟪 - A guide to game art portfolios and job hunting.
 
@@ -705,5 +705,4 @@ Royalty free music! Don't forget to check the license.
 
 
  
-![A cute drawing of Asriel from Undertale reaching for a heart](images/Asriel.png 'Thanks for reading!')
-
+![A cute drawing of Asriel from Undertale reaching for a heart]

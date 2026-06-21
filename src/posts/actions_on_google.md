@@ -1,7 +1,7 @@
 ---
 title: "Actions On Google"
 description: "Awesome Actions on Google [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)"
-tags: ['go', 'golang', 'algorand']
+tags: ["go", "golang", "algorand"]
 ---
 
 # Awesome Actions on Google [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -28,6 +28,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Interactive Canvas](https://developers.google.com/actions/interactivecanvas)
 
 ## Blogs
+
 - [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) - By Joe Birch.
 - [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) - By [Uri Shaked](https://twitter.com/UriShaked)
 - [Building an Action for Google Assistant: Getting Started](https://www.raywenderlich.com/1217997-building-an-action-for-google-assistant-getting-started) - By [Jenn Bailey](https://www.raywenderlich.com/u/invisigothcodegirl)
@@ -37,9 +38,10 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Use video loops with Interactive Canvas](https://medium.com/google-developers/use-video-loops-with-interactive-canvas-dc7503e95c6a) - By [Leon Nicholls](https://twitter.com/TheLeonNicholls)
 
 ## Videos
+
 - [What are Actions on Google](https://youtu.be/D-lhorsDlUQ) - Luke Davis and guest Jessica Dene Early-Cha introduce the concept of Actions on Google, and talk about common terminology.
 - [Smart Home Integrations on Google Assistant](https://youtu.be/cxABjSOa6RY) - Jessica Dene Early-Cha and guest Dan Myers go over how to get onboarded to Google Assistant for their smart devices and how voice commands work.
-- [Pathway to creating your own Action](https://youtu.be/Jy4CsxNafeE) - Jessica Dene Earley-Cha and guest Brad Abrams talk about content, App Actions, and experiences. 
+- [Pathway to creating your own Action](https://youtu.be/Jy4CsxNafeE) - Jessica Dene Earley-Cha and guest Brad Abrams talk about content, App Actions, and experiences.
 - [Creating personality for your Actions](https://youtu.be/dh_mixqvrP0) - In this episode of Assistant on Air, host Jessica Dene Early Cha and guest Wally Brill discuss why it's important to design with persona and how to bring it to life.
 - [Intro to the Google Assistant: Build Your First Action (Google I/O'19)](https://youtu.be/dpNrq_wiqGs) - This intro session will cover the fundamentals of the Google Assistant and what you can build for the assistive future.
 - [Reach the Next Billion Users with Your Actions for the Google Assistant (Google I/O'19)](https://youtu.be/ak6Uj02DTjk) - Come learn how users in emerging markets are interacting with the Google Assistant, what they expect from your Actions, and what opportunities you have to grow your services with them.
@@ -52,11 +54,12 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Enhance Your Search and Assistant Presence with Structured Data (Google I/O'19)](https://youtu.be/GR1j2ADyGvA) - Learn how to surface your engaging content on Google Search and the Google Assistant.
 - [Build Interactive Games for the Google Assistant (Google I/O'19)](https://youtu.be/J8lsvvJ21Ok) - Learn how to design and develop immersive gaming experiences for the Google Assistant.
 - [Voice and Visual: How to Build Actions for Smart Displays and More Devices (Google I/O'19)](https://youtu.be/Oh4lCL05XWc) - In this talk, we’ll walk you through design and developer considerations for building multimodal experiences across Google Assistant-enabled devices.
-- [How We Built the Google Assistant Sandbox Demos (And How You Can Too) (Google I/O'19)](https://youtu.be/w2wDR8rr0Hk) 
+- [How We Built the Google Assistant Sandbox Demos (And How You Can Too) (Google I/O'19)](https://youtu.be/w2wDR8rr0Hk)
 - [Data and Insights to Build for the Digital Assistant Era (Google I/O'19)](https://youtu.be/b3nDCC2K3rY)
 - [Designing Quality Conversations for the Google Assistant (Google I/O'19)](https://youtu.be/ZRjkSqVedfY) - A conversation designer and a developer will walk you through setting user expectations, handling unexpected user responses, and making improvements with user insights.
 
 ## Codelabs/Courses
+
 - [Build Actions for Google Assistant using Actions Builder (Level 1)](https://codelabs.developers.google.com/codelabs/actions-builder-1/index.html)
 - [Build Actions for Google Assistant using Actions Builder (Level 2)](https://codelabs.developers.google.com/codelabs/actions-builder-2/index.html)
 - [Build Actions for the Google Assistant (Level 1)](https://codelabs.developers.google.com/codelabs/actions-1/index.html)
@@ -74,9 +77,11 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Build Actions for Google Assistant](https://www.udemy.com/course/buildactionsforgoogleassistant/) - Udemy course to build actions with Dialogflow.
 
 ## Podcasts
+
 - [Assistant On Air](https://podcasts.google.com/?feed=aHR0cHM6Ly9hY3Rpb25zb25nb29nbGUubGlic3luLmNvbS9yc3M&ved=0CAAQ4aUDahcKEwiQruG2mJTnAhUAAAAAHQAAAAAQAQ) - By Google team
 
 ## Open source code
+
 - [Canvas Quiz](https://github.com/googlecreativelab/aog-canvas-quiz) - It is a starter kit for developers to make custom, voice-enabled question-answer games for the Google Assistant.
 - [Interactive Canvas editor](https://github.com/actions-on-google-labs/interactive-canvas-editor-nodejs) - Editor to create a web app for Interactive Canvas that is immediately loaded onto a smart display device. This allows for quick prototyping of web apps for Interactive Canvas.
 - [Virtual Pet](https://github.com/actions-on-google-labs/virtual-pet-game-nodejs) - It is built with interactive canvas. In this game, you will adopt and take care of a hamster just like you would in real life, except through Google Assistant.
@@ -92,6 +97,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [karaoke](https://github.com/amdcaruso/karaoke) - [Amanda Cavallaro](https://github.com/amdcaruso) - Conversational App to buid your own karaoke using GCP, YouTube API and Actions on Google.
 
 ## People to follow
+
 - [Actions on Google](https://twitter.com/actionsongoogle) - Official Actions on Google Account.
 - [Jessica Dene Earley-Cha](https://twitter.com/chatasweetie) - Developer Advocate @google.
 - [Joe Birch](https://twitter.com/hitherejoe) - Android Lead @Buffer. GDE for @Android, @actionsongoogle, @FlutterIO & @GooglePay. Instructor @caster_io.
@@ -106,6 +112,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Leon Nicholls](https://twitter.com/TheLeonNicholls) - Google Developer Relations Engineer
 
 ## Applications
+
 - [TuneIn](https://assistant.google.com/services/a/uid/000000c9bec03997) - TuneIn is your everything audio app. With more than 100,000 radio stations and 5.7 million podcasts.
 - [Random Number](https://assistant.google.com/services/a/uid/0000003b4796e827) - It will generate a random number.
 - [Netflix](https://assistant.google.com/services/a/uid/0000002a8e07d537) - Watch TV shows and movies recommended just for you, including award-winning Netflix original series, movies, and documentaries.

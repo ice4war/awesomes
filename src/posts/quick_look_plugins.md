@@ -44,7 +44,7 @@ xattr -d -r com.apple.quarantine ~/Library/QuickLook
 
 Run `brew install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases/latest)
 
-[![](screenshots/QLStephen.png)](https://github.com/whomwah/qlstephen)
+[![]
 
 ### [QLMarkdown](https://github.com/sbarex/QLMarkdown)
 
@@ -52,7 +52,7 @@ Run `brew install qlstephen` or [download manually](https://github.com/whomwah/q
 
 Run `brew install --cask qlmarkdown` or [download manually](https://github.com/sbarex/QLMarkdown/releases/latest)
 
-[![](screenshots/QLMarkdown.png)](https://github.com/sbarex/QLMarkdown)
+[![]
 
 ### [QuickLookJSON](http://www.sagtau.com/quicklookjson.html)
 
@@ -60,7 +60,7 @@ Run `brew install --cask qlmarkdown` or [download manually](https://github.com/s
 
 [Download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
-[![](screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
+[![]
 
 ### [BetterZipQL](https://macitbetter.com/downloads/)
 
@@ -72,7 +72,7 @@ Run `brew install betterzip` to install the BetterZip app and its Quick Look plu
 
 The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/dl/BetterZipQL-1.5.zip).
 
-[![](screenshots/BetterZipQL.png)](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
+[![]
 
 ### [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/)
 
@@ -80,7 +80,7 @@ The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/d
 
 Run `brew install suspicious-package` or [download manually](https://www.mothersruin.com/software/downloads/SuspiciousPackage.xip)
 
-[![](screenshots/SuspiciousPackage.png)](https://www.mothersruin.com/software/SuspiciousPackage/)
+[![]
 
 ### [Apparency](https://www.mothersruin.com/software/Apparency/)
 
@@ -88,7 +88,7 @@ Run `brew install suspicious-package` or [download manually](https://www.mothers
 
 Run `brew install apparency` or [download manually](https://mothersruin.com/software/downloads/Apparency.dmg)
 
-[![](screenshots/Apparency.png)](https://mothersruin.com/software/Apparency/)
+[![]
 
 ### [QLVideo](https://github.com/Marginal/QLVideo)
 
@@ -96,7 +96,7 @@ Run `brew install apparency` or [download manually](https://mothersruin.com/soft
 
 Run `brew install qlvideo` or [download manually](https://github.com/Marginal/QLVideo/releases/latest)
 
-[![](screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
+[![]
 
 ### [Source Code Preview](https://anybox.ltd/source-code-preview) 💰
 
@@ -104,7 +104,7 @@ Run `brew install qlvideo` or [download manually](https://github.com/Marginal/QL
 
 Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id6759270528).
 
-[![](screenshots/SourceCodePreview.png)](https://anybox.ltd/source-code-preview)
+[![]
 
 ### [Peek](https://bigzlabs.com/peek) 💰
 
@@ -114,7 +114,7 @@ Purchase on the [App Store](https://apps.apple.com/app/peek-quick-look-extension
 
 *The app is abandoned and buggy, but still functional.*
 
-[![](screenshots/Peek.png)](https://bigzlabs.com/peek)
+[![]
 
 ### [Folder Preview](https://anybox.ltd/folder-preview) 💰
 
@@ -122,7 +122,7 @@ Purchase on the [App Store](https://apps.apple.com/app/peek-quick-look-extension
 
 Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id6698876601).
 
-[![](screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
+[![]
 
 ### [Folder Quick Look](https://apps.apple.com/app/id6753110395) 💰
 
@@ -130,7 +130,7 @@ Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id66988766
 
 Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 
-[![](screenshots/FolderQuickLook.png)](https://apps.apple.com/app/id6753110395)
+[![]](https://apps.apple.com/app/id6753110395)
 
 ### [FluxMarkdown](https://github.com/xykong/flux-markdown)
 
@@ -138,7 +138,7 @@ Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 
 Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manually](https://github.com/xykong/flux-markdown/releases/latest)
 
-[![](screenshots/FluxMarkdown.png)](https://github.com/xykong/flux-markdown)
+[![]
 
 ### [Markdown Preview](https://anybox.ltd/markdown-preview) 💰
 
@@ -146,7 +146,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 Purchase on the [App Store](https://apps.apple.com/app/markdown-preview-quick-look/id6739955340).
 
-[![](screenshots/MarkdownPreview.png)](https://anybox.ltd/markdown-preview)
+[![]
 
 ### [EPS Preview](https://anybox.ltd/eps-preview) 💰
 
@@ -154,7 +154,7 @@ Purchase on the [App Store](https://apps.apple.com/app/markdown-preview-quick-lo
 
 Purchase on the [website](https://anybox.ltd/eps-preview).
 
-[![](screenshots/EPSPreview.png)](https://anybox.ltd/eps-preview)
+[![]
 
 ### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
 
@@ -162,7 +162,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 Run `brew install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
 
-[![](screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
+[![]
 
 ### [WebP](https://github.com/dchest/webp-quicklook)
 
@@ -172,7 +172,7 @@ Run `brew install provisionql` or [download manually](https://github.com/ealeksa
 
 Run `brew install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
 
-[![](screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
+[![]
 
 ### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 

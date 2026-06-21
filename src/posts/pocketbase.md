@@ -6,7 +6,7 @@ tags: ['lisp', 'scheme', 'common-lisp']
 
 # Awesome PocketBase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![GitHub forks](https://img.shields.io/github/stars/benallfree/awesome-pocketbase?style=flat) ![GitHub forks](https://img.shields.io/github/forks/benallfree/awesome-pocketbase?style=flat) ![GitHub forks](https://img.shields.io/github/contributors/benallfree/awesome-pocketbase?style=flat)
+![GitHub forks](https://img.shields.io/github/stars/benallfree/style=flat)
 
 > Curated list of awesome [PocketBase](https://pocketbase.io) resources.
 

@@ -11,7 +11,7 @@ tags:
 # Awesome jQuery
 
 
-[![Join the chat at https://gitter.im/peterkokot/awesome-jquery](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peterkokot/awesome-jquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/peterkokot/utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 [![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/petk/awesome-jquery/commits/master)
 [![Build Status](https://img.shields.io/travis/petk/awesome-jquery/master.svg)](https://travis-ci.org/petk/awesome-jquery)

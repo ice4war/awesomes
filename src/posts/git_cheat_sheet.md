@@ -645,7 +645,7 @@ git reset --keep
 
 ### Revert Commits
 
-**Revert commit (create new commit with opposite changes):**
+**Revert commit :**
 ```bash
 git revert 
 ```

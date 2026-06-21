@@ -11,7 +11,7 @@ tags:
 
 # Awesome Godot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Godot Engine logo](godot-logo.svg)](https://godotengine.org)
+[![Godot Engine logo]
 
 A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for Godot.
 

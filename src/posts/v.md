@@ -1,12 +1,8 @@
 ---
 title: "V"
 description: ""
-tags: ['lisp', 'scheme', 'common-lisp']
+tags: ["lisp", "scheme", "common-lisp"]
 ---
-
-
-
-
 
 # Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -17,56 +13,56 @@ tags: ['lisp', 'scheme', 'common-lisp']
 ## Contents
 
 - [Applications](#applications)
-	- [Build Systems](#build-systems)
-	- [Command-line](#command-line)
-	- [Editors](#editors)
-	- [Games](#games)
-	- [Graphics](#graphics)
-	- [Interpreters/Compilers](#interpreterscompilers)
-	- [Operating systems/Kernels](#operating-systemskernels)
-	- [Package managers](#package-managers)
-	- [Project management](#project-management)
-	- [Serialization](#serialization)
-	- [Utilities](#utilities)
-	- [Web](#web)
+  - [Build Systems](#build-systems)
+  - [Command-line](#command-line)
+  - [Editors](#editors)
+  - [Games](#games)
+  - [Graphics](#graphics)
+  - [Interpreters/Compilers](#interpreterscompilers)
+  - [Operating systems/Kernels](#operating-systemskernels)
+  - [Package managers](#package-managers)
+  - [Project management](#project-management)
+  - [Serialization](#serialization)
+  - [Utilities](#utilities)
+  - [Web](#web)
 - [Libraries](#libraries)
-	- [Audio](#audio)
-	- [Automation](#automation)
-	- [Command line interface (CLI) / Terminal / Shell](#command-line-interface-cli--terminal--shell)
-	- [Database clients](#database-clients)
-	- [Discord](#discord)
-	- [Eventing](#eventing)
-	- [File handling](#file-handling)
-	- [Game development](#game-development)
-	- [Graphics](#graphics-1)
-	- [Interoperability](#interoperability)
-	- [IRC](#irc)
-	- [Networking](#networking)
-	- [Operating system](#operating-system)
-	- [Scientific computing](#scientific-computing)
-	- [Serial Communications](#serial-communications)
-	- [Telecommunications](#telecommunications)
-	- [Telegram](#telegram)
-	- [Text processing](#text-processing)
-	- [User Interface toolkits](#user-interface-toolkits)
-	- [Utility](#utility)
-	- [Web](#web-1)
+  - [Audio](#audio)
+  - [Automation](#automation)
+  - [Command line interface (CLI) / Terminal / Shell](#command-line-interface-cli--terminal--shell)
+  - [Database clients](#database-clients)
+  - [Discord](#discord)
+  - [Eventing](#eventing)
+  - [File handling](#file-handling)
+  - [Game development](#game-development)
+  - [Graphics](#graphics-1)
+  - [Interoperability](#interoperability)
+  - [IRC](#irc)
+  - [Networking](#networking)
+  - [Operating system](#operating-system)
+  - [Scientific computing](#scientific-computing)
+  - [Serial Communications](#serial-communications)
+  - [Telecommunications](#telecommunications)
+  - [Telegram](#telegram)
+  - [Text processing](#text-processing)
+  - [User Interface toolkits](#user-interface-toolkits)
+  - [Utility](#utility)
+  - [Web](#web-1)
 - [Other](#other)
-	- [Articles](#articles)
-	- [Books](#books)
-	- [Communities](#communities)
-	- [Editor plugins](#editor-plugins)
-	- [Forums](#forums)
-	- [GitHub Actions](#github-actions)
-	- [GitHub templates](#github-templates)
-	- [IDEs with V](#ides-with-v)
-	- [Online IDEs with V](#online-ides-with-v)
-	- [Operating Systems & OS Development Examples](#operating-systems--os-development-examples)
-	- [Patterns](#patterns)
-	- [Programming contests](#programming-contests)
-	- [Syntax highlighting](#syntax-highlighting)
-	- [Tutorials](#tutorials)
-	- [Videos](#videos)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Communities](#communities)
+  - [Editor plugins](#editor-plugins)
+  - [Forums](#forums)
+  - [GitHub Actions]
+  - [GitHub templates]
+  - [IDEs with V](#ides-with-v)
+  - [Online IDEs with V](#online-ides-with-v)
+  - [Operating Systems & OS Development Examples](#operating-systems--os-development-examples)
+  - [Patterns](#patterns)
+  - [Programming contests](#programming-contests)
+  - [Syntax highlighting](#syntax-highlighting)
+  - [Tutorials](#tutorials)
+  - [Videos](#videos)
 
 ## Applications
 
@@ -75,7 +71,7 @@ tags: ['lisp', 'scheme', 'common-lisp']
 - [clockwork](https://github.com/emmathemartian/clockwork) - A language-agnostic build tool wrote in V.
 - [vab](https://github.com/vlang/vab) - The official V tool to build and package applications for Android.
 - [vab-sdl](https://github.com/larpon/vab-sdl) - Standalone and extra command for `vab` to build and package
-SDL2 and SDL3 based applications importing `vlang/sdl`.
+  SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Command-line
 
@@ -109,7 +105,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v-terminal-apps](https://github.com/cogrow4/V-Terminal-Apps) - A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.
 - [vin](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
 - [zilch](https://github.com/mike-ward/zilch) - An entertaining and amusing simulation of an installer.
-- [vlsh](https://github.com/vlshcc/vlsh) - *nix Shell written in V (pipes, plugins, mux mode, etc).
+- [vlsh](https://github.com/vlshcc/vlsh) - \*nix Shell written in V (pipes, plugins, mux mode, etc).
 
 ### Editors
 
@@ -137,7 +133,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Interpreters/Compilers
 
-- [Aixt](https://github.com/fermarsan/aixt) - Programming framework for microcontrollers based on a V-based language and written in V. 
+- [Aixt](https://github.com/fermarsan/aixt) - Programming framework for microcontrollers based on a V-based language and written in V.
 - [cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 - [stas](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
@@ -188,7 +184,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
 - [Vieter](https://github.com/ChewingBever/vieter) - Arch Linux repository server & package build system, written in V.
-- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*.
+- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for _[Is V still fast?](https://fast.vlang.io/)_.
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vss](https://github.com/vssio/vss) - Easy-to-use static site generator.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
@@ -459,7 +455,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 - [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - Solution of Advent of Code 2019 in V.
 - [Advent of Code 2022](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
-- [Rosetta Code in V](https://rosettacode.org/wiki/Category:V_(Vlang)) - Solutions for Rosetta Code in V.
+- [Rosetta Code in V](<https://rosettacode.org/wiki/Category:V_(Vlang)>) - Solutions for Rosetta Code in V.
 - [SoloLearn Coding Challenges](https://github.com/Serkonda/v-sololearn-coding-challenges) - Implementation of the SoloLearn coding challenges in V.
 
 ### Syntax highlighting

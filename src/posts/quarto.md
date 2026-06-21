@@ -1,14 +1,8 @@
 ---
 title: "Quarto"
 description: "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)"
-tags: ['lisp', 'scheme', 'common-lisp']
+tags: ["lisp", "scheme", "common-lisp"]
 ---
-
-
-
-
-
-
 
 # [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -16,13 +10,11 @@ The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, 
 
 [Quarto®](https://quarto.org) is an open-source scientific and technical publishing system built on [Pandoc]().
 
-
-
 ---
 
-Contributions of any kind are welcome, just follow the [guidelines](.github/CONTRIBUTING.md.html) by either:
+Contributions of any kind are welcome, just follow the [guidelines] by either:
 
-- Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil&labels=&template=suggestion.yml) (easier).
+- Filling a [suggestion issue](https://github.com/mcanouil/assignees=mcanouil&labels=&template=suggestion.yml) (easier).
 - Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare).
 
 ---
@@ -35,21 +27,21 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Talks and videos](#talks-and-videos)
 - [Supported editors](#supported-editors)
 - [Libraries/Packages/Scripts](#librariespackagesscripts)
- - [R](#r)
- - [Julia](#julia)
- - [Python](#python)
- - [Editors](#editors)
- - [Miscellaneous](#miscellaneous)
+- [R](#r)
+- [Julia](#julia)
+- [Python](#python)
+- [Editors](#editors)
+- [Miscellaneous](#miscellaneous)
 - [Continuous integration / Continuous deployment](#continuous-integration--continuous-deployment)
 - [Extensions](#extensions)
 - [Real-life examples](#real-life-examples)
- - [Presentations formats](#presentations-formats)
- - [Websites formats](#websites-formats)
- - [Book formats](#book-formats)
- - [Other formats](#other-formats)
+- [Presentations formats](#presentations-formats)
+- [Websites formats](#websites-formats)
+- [Book formats](#book-formats)
+- [Other formats](#other-formats)
 - [Follow](#follow)
- - [Official](#official)
- - [Community](#community)
+- [Official](#official)
+- [Community](#community)
 
 ## Official documentation & quickstarts
 
@@ -242,28 +234,23 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ### Other formats
 
-
-
-
 ## Follow
-
-
 
 ### Official
 
 - GitHub Organisations
- - [@quarto-dev](https://github.com/quarto-dev) - GitHub organisation containing Quarto CLI, IDE plugins/extension, etc.
- - [@quarto-ext](https://github.com/quarto-ext) - GitHub organisation containing extensions developed/maintained by Quarto's team.
- - [@quarto-journals](https://github.com/quarto-journals) - GitHub organisation containing journals templates developed/maintained by Quarto's team.
+- [@quarto-dev](https://github.com/quarto-dev) - GitHub organisation containing Quarto CLI, IDE plugins/extension, etc.
+- [@quarto-ext](https://github.com/quarto-ext) - GitHub organisation containing extensions developed/maintained by Quarto's team.
+- [@quarto-journals](https://github.com/quarto-journals) - GitHub organisation containing journals templates developed/maintained by Quarto's team.
 - Current members:
- - [Christophe Dervieux (\@cderv)](https://github.com/cderv) - Member of Quarto core team (BlueSky: [\@cderv.bsky.social](https://bsky.app/profile/cderv.bsky.social)).
- - [Carlos Scheidegger (\@cscheid)](https://github.com/cscheid) - Member of Quarto core team (BlueSky: [\@cscheid.net](https://bsky.app/profile/cscheid.net)).
- - [Gordon Woodhull (\@gordonwoodhull)](https://github.com/gordonwoodhull) - Member of Quarto core team (BlueSky: [\@gordonwoodhull.bsky.social](https://bsky.app/profile/gordonwoodhull.bsky.social)).
+- [Christophe Dervieux (\@cderv)](https://github.com/cderv) - Member of Quarto core team (BlueSky: [\@cderv.bsky.social](https://bsky.app/profile/cderv.bsky.social)).
+- [Carlos Scheidegger (\@cscheid)](https://github.com/cscheid) - Member of Quarto core team (BlueSky: [\@cscheid.net](https://bsky.app/profile/cscheid.net)).
+- [Gordon Woodhull (\@gordonwoodhull)](https://github.com/gordonwoodhull) - Member of Quarto core team (BlueSky: [\@gordonwoodhull.bsky.social](https://bsky.app/profile/gordonwoodhull.bsky.social)).
 - Past members:
- - [J.J. Allaire (\@jjallaire)](https://github.com/jjallaire/) - Member of Quarto core team.
- - [Charles Teague (\@dragonstyle)](https://github.com/dragonstyle) - Member of Quarto core team.
- - [Yihui Xie (\@yihui)](https://github.com/yihui) - Member of Quarto core team.
- - [Tom Mock (\@jthomasmock)](https://github.com/jthomasmock) - Customer Enablement & Quarto Product Manager.
+- [J.J. Allaire (\@jjallaire)](https://github.com/jjallaire/) - Member of Quarto core team.
+- [Charles Teague (\@dragonstyle)](https://github.com/dragonstyle) - Member of Quarto core team.
+- [Yihui Xie (\@yihui)](https://github.com/yihui) - Member of Quarto core team.
+- [Tom Mock (\@jthomasmock)](https://github.com/jthomasmock) - Customer Enablement & Quarto Product Manager.
 
 ### Community
 

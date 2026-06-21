@@ -10,7 +10,7 @@ tags: ['mobile', 'android', 'ios', 'cordova', 'ionic', 'flutter', 'xamarin']
 # Deprecated! This list will no longer be updated due to my focus shift.
 
 =========================
-[![Build Status](https://travis-ci.org/yenchenlin1994/awesome-watchos.svg?branch=master)](https://travis-ci.org/yenchenlin1994/awesome-watchos)
+[![Build Status](https://travis-ci.org/yenchenlin1994/branch=master)](https://travis-ci.org/yenchenlin1994/awesome-watchos)
 
 A curated list of awesome watchOS frameworks, libraries, sample apps.
 ### Contents

@@ -16,7 +16,7 @@ tags:
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![PDF Build](https://github.com/dend/awesome-product-management/actions/workflows/makepdf.yml/badge.svg)](https://github.com/dend/awesome-product-management/actions/workflows/makepdf.yml)
 [![Link Checker](https://github.com/dend/awesome-product-management/actions/workflows/linkchecker.yml/badge.svg)](https://github.com/dend/awesome-product-management/actions/workflows/linkchecker.yml)
-[![GitHub Repo stars](https://img.shields.io/github/stars/dend/awesome-product-management?style=flat)](https://github.com/dend/awesome-product-management/stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/dend/style=flat)](https://github.com/dend/awesome-product-management/stargazers)
 
 *A curated list of awesome resources for product/program managers to learn and grow.*
 
@@ -86,7 +86,7 @@ Tools in this section help product managers capture meeting notes, ideas, resear
 
 Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals.
 
-![OneNote](media/tool-onenote.gif)
+![OneNote]
 
 | Property | Value |
 |-----------|------------------------------------|
@@ -99,7 +99,7 @@ Efficient note-taking with superior organizational capabilities. Integrates easi
 
 Note-taking in Markdown format, with tag-based organizational capabilities.
 
-![Bear](media/tool-bear.gif)
+![Bear]
 
 | Property | Value |
 |-----------|--------------------------------------------|
@@ -112,7 +112,7 @@ Note-taking in Markdown format, with tag-based organizational capabilities.
 
 Obsidian is a private and flexible writing app that adapts to the way you think. From personal notes to journaling, knowledge bases, and project management, Obsidian gives you the tools to come up with ideas and organize them. Turn your notes into an online wiki, knowledge base, documentation, or digital garden.
 
-![Obsidian](media/obsidian.png)
+![Obsidian]
 
 | Property | Value |
 |-----------|---------------------------------------------|
@@ -136,7 +136,7 @@ A collaborative note-taking application that is simple, intuitive and allows you
 
 All-in-one workspace for teams and individuals.
 
-![Notion](media/tool-notion.gif)
+![Notion]
 
 | Property | Value |
 |-----------|------------------------------------------------------|
@@ -163,7 +163,7 @@ A visual project and task management tool based on Kanban boards. Suitable for l
 
 Taiga is a project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface.
 
-![Switching zoom modes in Kanban section](media/tool-taiga.gif)
+![Switching zoom modes in Kanban section]
 
 | Property | Value |
 |-----------|----------------------------------------------------------|
@@ -176,7 +176,7 @@ Taiga is a project management tool for multi-functional agile teams. It has a ri
 
 Lightweight project management tool for agile teams. Features workspaces creation and kanban boards.
 
-![Tenzu overview](media/tool-tenzu.gif)
+![Tenzu overview]
 
 | Property | Value |
 |-----------|-----------------------------------------------------------------------|
@@ -200,7 +200,7 @@ A tool to quickly manage "to-dos".
 
 Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams.
 
-![Taskade](media/tool-taskade.gif)
+![Taskade]
 
 | Property | Value |
 |-----------|--------------------------------------------------------------------|
@@ -227,7 +227,7 @@ Wireframing tool that allows building mocks without a strong focus on details. E
 
 Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences.
 
-![Sketch](media/tool-sketch.gif)
+![Sketch]
 
 | Property | Value |
 |-----------|------------------------------------------------------|
@@ -240,7 +240,7 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 
 A better way to design. Design, prototype, and collaborate all in the browser—with Figma.
 
-![Figma](media/tool-figma.gif)
+![Figma]
 
 | Property | Value |
 |-----------|--------------------------------------|
@@ -256,7 +256,7 @@ These tools help PMs collect feedback, define product direction, and share strat
 
 productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap.
 
-![productboard](media/tool-productboard.png)
+![productboard]
 
 | Property | Value |
 |-----------|-----------------------------------------------|
@@ -269,7 +269,7 @@ productboard is the product management system that helps you understand what use
 
 LogChimp allows you to track your customers feedback to build better products.
 
-![logchimp](media/logchimp.png)
+![logchimp]
 
 | Property | Value |
 |-----------|----------------------------------------------|
@@ -282,7 +282,7 @@ LogChimp allows you to track your customers feedback to build better products.
 
 Hellonext helps you close the user feedback loop. Comes with feedback portal, roadmap, and changelog.
 
-![hellonext](media/hellonext.png)
+![hellonext]
 
 | Property | Value |
 |-----------|------------------------------------------|
@@ -295,7 +295,7 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 
 Screeb is a product-led user research platform helping product teams to build better products by helping understand their users.
 
-![screeb](media/screeb.png)
+![screeb]
 
 | Property | Value |
 |-----------|------------------------------------|

@@ -11,12 +11,12 @@ tags: ['typescript', 'javascript', 'web-development', 'frontend', 'programming']
 This list contains awesome (tech related) events happening (and are mostly recurring) in The Netherlands like: conferences, meetups and parties 🎉 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
-- [What is an awesome list?](https://github.com/sindresorhus/awesome)
+- [What is an ](https://github.com/sindresorhus/awesome)
 - [Contribution guide](contributing.md.html)
 
 ---
 
-Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawkward).
+Want to see more  [Follow us on Twitter](https://twitter.com/madeawkward).
 
 ## Contents
 - [Rotterdam](#rotterdam)

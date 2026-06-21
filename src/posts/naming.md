@@ -138,7 +138,7 @@ This is a curated list for when naming things is done right.
 - [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Use_within_programming_languages) - Different case styles where the name illustrates its appearance.
 - [Code golf](https://en.wikipedia.org/wiki/Code_golf) - Writing a program in as few characters as possible. Just like how Golf players try to win in the fewest club strokes.
 - [Cookie licking](https://devblogs.microsoft.com/oldnewthing/20091201-00/?p=15843) - E.g., claiming a GitHub issue, then not working on it.
-- [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) - A hidden feature, especially in video games, in reference to the Easter egg hunt.
+- [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_ - A hidden feature, especially in video games, in reference to the Easter egg hunt.
 - [Firmware](https://en.wikipedia.org/wiki/Firmware) - The _ware_ between _software_ and _hardware_.
 - [Floating point number](https://floating-point-gui.de/formats/fp/) - This representation can encode numbers at very different magnitudes with a limited amount of digits by letting the radix point _float_ instead of being fixed in place.
 - [Framework](https://en.wikipedia.org/wiki/Software_framework) - In software architecture (like in actual architecture), frameworks provide a basic structure to build upon, guiding and constraining further development.

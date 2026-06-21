@@ -6,7 +6,7 @@ tags: ['lisp', 'scheme', 'common-lisp']
 
 # Awesome Natural Language Generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Piscis Magnus from BL Harley 647](logo.png)
+![Piscis Magnus from BL Harley 647]
 
 Natural Language Generation is a broad domain with applications in chat-bots, story generation, and data descriptions. There is a wide spectrum of different technologies addressing parts or the whole of the NLG process. This list aims to represent this deversity of NLG applications and techniques by providing links to various projects, tools, research papers, and learning materials.
 

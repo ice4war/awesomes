@@ -5,7 +5,7 @@ tags: ['lisp', 'scheme', 'common-lisp']
 ---
 
 
-# Awesome Composer [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Build on Windows](https://github.com/jakoch/awesome-composer/actions/workflows/awesome-bot.yml/badge.svg?branch=main)](https://github.com/jakoch/awesome-composer/actions/workflows/awesome-bot.yml) [![license](https://img.shields.io/github/license/jakoch/awesome-composer.svg?maxAge=2592000)]()
+# Awesome Composer [![Awesome](https://maxAge=2592000)]()
 
 [](https://getcomposer.org/)
 

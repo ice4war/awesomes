@@ -1,34 +1,31 @@
 ---
 title: "Cli"
 description: "Awesome CLI"
-tags: ['shell', 'cli', 'bash', 'fish']
+tags: ["shell", "cli", "bash", "fish"]
 ---
 
 # Awesome CLI
 
 Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into [Awesome](https://github.com/sindresorhus/awesome) lists.
 
-![AWESOME CLI](./assets/images/awesome-cli-banner.png)
+![AWESOME CLI]
 
 ![Build](https://github.com/umutphp/awesome-cli/workflows/Test%20&%20Build/badge.svg) ![WOSPM Checker](https://github.com/umutphp/awesome-cli/workflows/WOSPM%20Checker/badge.svg)
 
 ---
 
-
-
 - [Introduction](#introduction)
 - [How To Use](#how-to-use)
- - [Interactive Mode](#interactive-mode)
- - [Random Mode](#random-mode)
- - [Surprise Mode](#surprise-mode)
+- [Interactive Mode](#interactive-mode)
+- [Random Mode](#random-mode)
+- [Surprise Mode](#surprise-mode)
 - [How To Install](#how-to-install)
- - [Basic](#basic)
- - [Build as binary](#build-as-binary)
- - [Download and use official binary](#download-and-use-official-binary)
- - [CLI Options](#cli-options)
- - [Sample Execution](#sample-execution)
+- [Basic](#basic)
+- [Build as binary](#build-as-binary)
+- [Download and use official binary](#download-and-use-official-binary)
+- [CLI Options](#cli-options)
+- [Sample Execution](#sample-execution)
 - [How To Contribute](#how-to-contribute)
-
 
 ---
 
@@ -36,7 +33,7 @@ Awesome CLI is a simple command line tool to give you a fancy command line inter
 
 The CLI starts with the root repository [sindresorhus/awesome](https://github.com/sindresorhus/awesome) and guides to to the final repo according to your choices. It fetches Readme files of the repositories and parses them to create the select lists. So, the CLI needs a working network :). It also uses file caches to cache the Readme file contents. You can find the cache folder with name ".awesomecache" under your home folder.
 
-![Avesome-cli Sample](./assets/images/awesome-cli.gif)
+![Avesome-cli Sample]
 
 ## How To Use
 
@@ -46,8 +43,8 @@ In order to use awesome-cli interactively, just execute it without giving any op
 
 ```bash
 > $ awesome-cli
-Use the arrow keys to navigate: ↓ ↑ → ← 
-? Select from 'Awesome' list: 
+Use the arrow keys to navigate: ↓ ↑ → ←
+? Select from 'Awesome' list:
  ▸ Platforms
  Programming Languages
  Front-End Development
@@ -113,7 +110,7 @@ Follow the steps;
 
 ### Download and use official binary
 
-Visit the [latest release](https://github.com/umutphp/awesome-cli/releases/latest) page, download the zip correspondingly and extract the zip. You can used the binary in the zip file. 
+Visit the [latest release](https://github.com/umutphp/awesome-cli/releases/latest) page, download the zip correspondingly and extract the zip. You can used the binary in the zip file.
 
 ```bash
 > $ cp /path/to/zip/extract/awesome-cli /usr/local/bin/awesome-cli
@@ -150,4 +147,5 @@ https://wiki.gnome.org/Apps/Gedit
 ```
 
 ## How To Contribute
+
 Please follow the instructions in [CONTRIBUTING](CONTRIBUTING.md.html) file and beware of [CODE_OF_CONDUCT](CODE_OF_CONDUCT).

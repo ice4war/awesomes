@@ -9,13 +9,13 @@ tags:
   - frontend
 ---
 
-# Awesome CSS Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome CSS Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > An awesome list limited to the best CSS learning resources
 
 This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – the language and the modules. Not about naming conventions, architecture paradigms, frameworks, pre-processors, post-processors, CSS-in-JS or other aspects of todays CSS ecosystem.
 
-*Please read the [contribution guidelines](.github/contributing.md.html) before contributing.*
+_Please read the [contribution guidelines] before contributing._
 
 ## Contents
 
@@ -45,7 +45,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [The cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade) - This article explains what the cascade is and how this affects you.
 - [Specificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/) - Understanding specificity and inheritance is important to master CSS. This article will help.
 - [CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model) - An article explaining the foundation of layout on the web.
- - Also have a look at the detailed information about the [box-sizing](https://css-tricks.com/box-sizing/) property.
+- Also have a look at the detailed information about the [box-sizing](https://css-tricks.com/box-sizing/) property.
 - [Responsive Design](https://web.dev/learn/design/) - Extensive information about all aspects of responsive design to make sites that look great and work well for everyone.
 
 ## CSS units
@@ -106,7 +106,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [All you need to know about CSS Transitions](https://blog.alexmaccaw.com/all-you-need-to-know-about-css-transitions/) - Also addressing advanced topics from chaining and events to hardware acceleration and animation functions.
 - [CSS 3D transforms](https://3dtransforms.desandro.com) - Multi page tutorial with examples like card flip and carousel effects.
 - [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners) - Imparts the concepts of CSS animations with keyframes.
-- [animatable](http://leaverou.github.io/animatable/) - Nice little page demonstrating which CSS properties are animatable. 
+- [animatable](http://leaverou.github.io/animatable/) - Nice little page demonstrating which CSS properties are animatable.
 
 ---
 

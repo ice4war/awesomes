@@ -1,10 +1,10 @@
 ---
 title: "Arch"
-description: "Awesome Arch [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/PandaFoss/Awesome-Arch.svg?branch=master)](https://travis-c"
+description: "Awesome Arch [![Awesome](https://branch=master)](https://travis-c"
 tags: ['lisp', 'scheme', 'common-lisp']
 ---
 
-# Awesome Arch [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/PandaFoss/Awesome-Arch.svg?branch=master)](https://travis-ci.com/PandaFoss/Awesome-Arch)
+# Awesome Arch [![Awesome](https://branch=master)](https://travis-ci.com/PandaFoss/Awesome-Arch)
 
 > An awesome list for an awesome project.
 

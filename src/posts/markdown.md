@@ -1,22 +1,16 @@
 ---
 title: "Markdown"
 description: "Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-tags: ['lisp', 'scheme', 'common-lisp']
+tags: ["lisp", "scheme", "common-lisp"]
 ---
 
 # Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-
 
 > A curated list of delightful Markdown stuff.
 
 Markdown is a markup language created by John Gruber in collaboration with Aaron Swartz. It was designed to be easily converted to HTML and has been extended into different types of implementations.
 
-
-
-_Please read the [contribution guidelines](.github/contributing.md.html) before contributing._
-
-
+_Please read the [contribution guidelines] before contributing._
 
 :gem: means **really _awesome/useful_**.
 ![Globe][globe] means that **it's _webapp/webservice_**.
@@ -26,40 +20,32 @@ _Please read the [contribution guidelines](.github/contributing.md.html) before 
 ![Linux][linux] means that **runs on _Linux_**.
 ![Windows][windows] means that **runs on _Windows_**.
 
-
-
-
-
 ## Contents
 
 - [Awesome Markdown ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-markdown-awesomehttpsgithubcomsindresorhusawesome)
- - [Contents](#contents)
- - [CMS / Blogs](#cms--blogs)
- - [Libraries](#libraries)
- - [C](#c)
- - [Java](#java)
- - [JavaScript](#javascript)
- - [Perl](#perl)
- - [PHP](#php)
- - [Python](#python)
- - [Ruby](#ruby)
- - [Tools](#tools)
- - [Converters](#converters)
- - [Editors](#editors)
- - [Linters](#linters)
- - [Miscellaneous](#miscellaneous)
- - [Presentations](#presentations)
- - [Services](#services)
- - [Resources](#resources)
- - [Documentation](#documentation)
- - [Tutorials](#tutorials)
- - [License](#license)
+- [Contents](#contents)
+- [CMS / Blogs](#cms--blogs)
+- [Libraries](#libraries)
+- [C](#c)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [Perl](#perl)
+- [PHP](#php)
+- [Python](#python)
+- [Ruby](#ruby)
+- [Tools](#tools)
+- [Converters](#converters)
+- [Editors](#editors)
+- [Linters](#linters)
+- [Miscellaneous](#miscellaneous)
+- [Presentations](#presentations)
+- [Services](#services)
+- [Resources](#resources)
+- [Documentation](#documentation)
+- [Tutorials](#tutorials)
+- [License](#license)
 
 ---
-
-
-
-
 
 ## CMS / Blogs
 

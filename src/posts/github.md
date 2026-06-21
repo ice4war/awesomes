@@ -8,7 +8,7 @@ tags: ['github', 'git']
 
 > A curated list of GitHub's awesomeness
 
-Think GitHub is awesome? Contribute something to this list! It's easy, just have a look at the [contribution guidelines](CONTRIBUTING.md.html).
+Think GitHub is  Contribute something to this list! It's easy, just have a look at the [contribution guidelines](CONTRIBUTING.md.html).
 
 The awesomeness is currently organized into just a few different buckets: 
 
@@ -17,7 +17,7 @@ The awesomeness is currently organized into just a few different buckets:
 * [Tips, tricks, tools, and add-ons for GitHub power users](#tips-tricks-tools-and-add-ons-for-github-power-users)
 * [Novel uses of GitHub](#novel-uses-of-github)
 
-What is the [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) list? It's a collection of things that make **GitHub** one of the most amazing co-creation platforms in the world.
+What is the [Awesome GitHub](https://github.com/phillipadsmith/ It's a collection of things that make **GitHub** one of the most amazing co-creation platforms in the world.
 
 It is specifically focused on _GitHub_, and not on [Git](https://git-scm.com/). Git is indeed awesome. And there would be no GitHub without Git. And yet, GitHub has become much more than a home to much of humanity's open-source code; it has become one of the world's most vivid examples of the power of mass collaboration.
 

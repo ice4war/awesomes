@@ -9,9 +9,9 @@ tags:
   - cross-platform
 ---
 
-[![Awesome libGDX Logo](logo.png 'Awesome libGDX Logo')](https://libgdx.com/)
+[![Awesome libGDX Logo]
 
-# Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Latest libGDX Version](https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx?color=e74a45&label=Latest%20libGDX%20Version&style=flat-square)](https://search.maven.org/artifact/com.badlogicgames.gdx/gdx)
+# Awesome libGDX [![Awesome](https://color=e74a45&label=Latest%20libGDX%20Version&style=flat-square)](https://search.maven.org/artifact/com.badlogicgames.gdx/gdx)
 
 > 
 >

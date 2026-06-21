@@ -157,10 +157,10 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 ## Reference
 
 - [Astrobin's Heatmap of the Sky](https://app.astrobin.com/i/e4clel) - An inspiring map showing the parts of the sky that the community on Astrobin photographs the most (or least).
-- [Calibration Frames Cheat-Sheet](https://drive.google.com/file/d/1I1deTi8sCFIn_bwQbYiqqxliVLInsGx6/view) ([cached version](assets/docs/calibration-frames-cheatsheet.pdf))
+- [Calibration Frames Cheat-Sheet](https://drive.google.com/file/d/1I1deTi8sCFIn_bwQbYiqqxliVLInsGx6/view) ([cached version]
 - [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php) - A list of Canon EOS models with useful reference information such as sensor and pixel size, quantum efficiency, shutter life, etc.
 - [Digital Camera Database](https://www.digicamdb.com) - A database holding sensor characteristics for a plethora of digital cameras.
-- [IDAS filter comparison](https://www.cloudynights.com/topic/797739-idas-filter-comparison-test-report/?p=11487347) - CloudyNights forum member Jim Thompson tests and compares a large selection of IDAS brand filters. ([cached version](assets/docs/idas-test-report.pdf))
+- [IDAS filter comparison](https://www.cloudynights.com/topic/797739-idas-filter-comparison-test-report/?p=11487347) - CloudyNights forum member Jim Thompson tests and compares a large selection of IDAS brand filters. ([cached version]
 - [Low Level Landscape Lighting](http://lowlevellighting.org/) - A method for lighting the landscape for night-scape photography. This is its official site.
 - [Messier](https://www.messier-objects.com/) - All objects from the Messier catalogue with lots of background information and images.
 - [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php) - A list of Nikon models with useful reference information such as sensor and pixel size, quantum efficiency, shutter life, etc.
@@ -183,4 +183,3 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 - [Astrobin](https://www.astrobin.com) - Social image hosting dedicated to astrophotography.
 - [Cloudy Nights](https://www.cloudynights.com) - Arguably the largest community forums.
 - [Stargazers Lounge](https://stargazerslounge.com) - Small but active UK community forums.
-

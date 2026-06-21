@@ -17,7 +17,7 @@ tags:
   - text-processing
 ---
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+[![Awesome](https://style=flat-square)](https://www.patreon.com/arbox)
 
 [[RubyML](https://github.com/arbox/machine-learning-with-ruby) |
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |

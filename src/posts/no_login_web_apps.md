@@ -9,7 +9,7 @@ tags: ['web', 'framework', 'laravel', 'flask', 'nodejs', 'django']
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
 [![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/CONTRIBUTING.md)
-[![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/aviaryan/utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Open Source Helpers](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps/badges/users.svg)](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps)
 
 Curated list of awesome web apps that work without requesting you to create an account.

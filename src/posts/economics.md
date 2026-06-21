@@ -124,7 +124,7 @@ Reviews
  - [Marginal Revolution](http://marginalrevolution.com/) - Tyler Cowen and Alex Tabarrok
  - [VOX CEPR](http://www.voxeu.org/) - Members of CEPR
 * [Economics Blog Search](https://cse.google.com/cse/publicurl?cx=002720237717066476899:i_zfef5fawa) - A Google-based search service for aforementioned blogs.
-* [AEA Blog Directory](https://www.aeaweb.org/rfe/showCat.php?cat_id=96) - The list of major economic blogs.
+* [AEA Blog Directory](https://www.aecat_id=96) - The list of major economic blogs.
 * [StackExchange Economics](http://economics.stackexchange.com/) - A Q&A website where you can ask and answer questions.
 * Reddit - A popular news aggregator. Has many economics-related sections, for example:
  - [/r/GoodEconomics/](https://www.reddit.com/r/GoodEconomics/) - Selected pieces on economic issues.

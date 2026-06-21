@@ -9,7 +9,7 @@ tags: ['devops', 'automation', 'docker', 'kubernetes', 'ci-cd']
 > A curated list of awesome Prometheus resources, projects and tools.
 
 
-[![Prometheus](media/prometheus.png)](https://prometheus.io/)
+[![Prometheus]
 
 Prometheus is an open-source systems monitoring and alerting toolkit.
 

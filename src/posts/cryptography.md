@@ -10,7 +10,7 @@ tags: ['security', 'cybersecurity', 'hacking', 'privacy', 'infosec']
  
 
 
-[![Follow us on twitter](https://img.shields.io/twitter/follow/awe_crypto_bot.svg?style=social&maxAge=0)](https://twitter.com/awe_crypto_bot)
+[![Follow us on twitter](https://img.shields.io/twitter/follow/style=social&maxAge=0)](https://twitter.com/awe_crypto_bot)
 
 A curated list of cryptography resources and links.
 

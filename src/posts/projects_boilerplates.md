@@ -1,7 +1,7 @@
 ---
 title: Awesome Projects Boilerplates
 description: Curated list of boilerplates and templates to enhance productivity.
-tags: ['typescript', 'javascript', 'web-development', 'frontend', 'programming']
+tags: ["typescript", "javascript", "web-development", "frontend", "programming"]
 ---
 
 # Awesome boilerplates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -9,25 +9,25 @@ tags: ['typescript', 'javascript', 'web-development', 'frontend', 'programming']
 Curated list of boilerplates and templates to enhance productivity.
 
 - [Awesome Projects Boilerplates](#awesome-projects-boilerplates)
- - [Android Development](#android-development)
- - [iOS Development](#ios-development)
- - [JavaScript](#javascript)
- - [Hybrid Mobile App Frameworks](#hybrid-mobile-app-frameworks)
- - [Microservices](#microservices)
- - [Python](#python)
- - [PHP](#php)
- - [Ruby](#ruby)
- - [.NET](#net)
- - [Go](#go)
- - [Browser Webextensions](#browser-webextensions)
- - [Websites](#websites)
- - [IDE Templates](#ide-templates)
- - [GitHub](#github)
+- [Android Development](#android-development)
+- [iOS Development](#ios-development)
+- [JavaScript](#javascript)
+- [Hybrid Mobile App Frameworks](#hybrid-mobile-app-frameworks)
+- [Microservices](#microservices)
+- [Python](#python)
+- [PHP](#php)
+- [Ruby](#ruby)
+- [.NET](#net)
+- [Go](#go)
+- [Browser Webextensions](#browser-webextensions)
+- [Websites](#websites)
+- [IDE Templates](#ide-templates)
+- [GitHub](#github)
 - [Contributing](#contributing)
 
 ## Android Development
 
-*Boilerplates and templates for Android*
+_Boilerplates and templates for Android_
 
 - [Android Bootstrap](https://github.com/AndroidBootstrap/android-bootstrap) A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
 - [Android Material Drawer Template](https://github.com/kanytu/android-material-drawer-template) An Android template with navigation drawer for material design.
@@ -44,7 +44,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ## IOS Development.
 
-*Boilerplates and templates for IOS*
+_Boilerplates and templates for IOS_
 
 - [iOS Boilerplate](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
 - [Amaro](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
@@ -53,56 +53,56 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ## JavaScript
 
-*Boilerplates and templates for JavaScript*
+_Boilerplates and templates for JavaScript_
 
 - [Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
-- [Mega Boilerplate](https://github.com/sahat/megaboilerplate) Fullstack boilerplate generator with support for Node.js, a static site, or an Electron app. 
+- [Mega Boilerplate](https://github.com/sahat/megaboilerplate) Fullstack boilerplate generator with support for Node.js, a static site, or an Electron app.
 - [NodeJS](#node-js)
- - [Yeoman Node Generator](https://github.com/yeoman/generator-node) Yeomans node generator 
- - [Node Module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
- - [Express Boilerplate](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
- - [Hackathon Starter](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications.
- - [Node/Backbone Web App Boilerplate](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
- - [Nodebootstrap](http://nodebootstrap.io/) Unobtrusive skeleton project for Node/Express.js with pre-configured best-practices.
- - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS)
- - [Node-Express-Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.
- - [Handlebars-Express Boilerplate](https://github.com/MohamedMoustafaNUIG/NodeExpressHbsScaffold) - JS web app boilerplate with Express and the handlebars view engine setup.
+- [Yeoman Node Generator](https://github.com/yeoman/generator-node) Yeomans node generator
+- [Node Module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
+- [Express Boilerplate](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
+- [Hackathon Starter](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications.
+- [Node/Backbone Web App Boilerplate](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
+- [Nodebootstrap](http://nodebootstrap.io/) Unobtrusive skeleton project for Node/Express.js with pre-configured best-practices.
+- [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS)
+- [Node-Express-Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.
+- [Handlebars-Express Boilerplate](https://github.com/MohamedMoustafaNUIG/NodeExpressHbsScaffold) - JS web app boilerplate with Express and the handlebars view engine setup.
 
 - [AngularJS](#angular-js)
- - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
- - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular)
- - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
+- [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
+- [Yeoman Angular Generator](https://github.com/yeoman/generator-angular)
+- [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
 - [ReactJS](#react-js)
- - [React Typescript npm boilerplate](https://github.com/Sivakumar00/react-typescript-npm-boilerplate) Powerful react typescript npm component boilerplate built with rollup.js, storybook, jest unit test, tree-shaking and airbnb eslint rules
- - [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
- - [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
- - [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
- - [Library Boilerplate](https://github.com/gaearon/library-boilerplate) An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader
- - [React NPM Component Starter](https://github.com/yogaboll/react-npm-component-starter) A minimal boilerplate for building a React component for NPM
- - [React Isomorphic Starterkit](https://github.com/RickWong/react-isomorphic-starterkit) Isomorphic starterkit with server-side React rendering having many features
- - [Coffee React Quickstart ](https://github.com/KyleAMathews/coffee-react-quickstart) Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
- - [Flask React Boilerplate](https://github.com/alexkuz/flask-react-boilerplate) Flask and react Boilerplate
- - [Boilerplate Webpack React](https://github.com/tcoopman/boilerplate-webpack-react) Boilerplate project for Reactjs with webpack, gulp and stylus
- - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
- - [React Redux minimal](https://github.com/flexdinesh/react-redux-boilerplate) A minimal React-Redux boilerplate with all the best practices
- - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
- - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
+- [React Typescript npm boilerplate](https://github.com/Sivakumar00/react-typescript-npm-boilerplate) Powerful react typescript npm component boilerplate built with rollup.js, storybook, jest unit test, tree-shaking and airbnb eslint rules
+- [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
+- [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
+- [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
+- [Library Boilerplate](https://github.com/gaearon/library-boilerplate) An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader
+- [React NPM Component Starter](https://github.com/yogaboll/react-npm-component-starter) A minimal boilerplate for building a React component for NPM
+- [React Isomorphic Starterkit](https://github.com/RickWong/react-isomorphic-starterkit) Isomorphic starterkit with server-side React rendering having many features
+- [Coffee React Quickstart ](https://github.com/KyleAMathews/coffee-react-quickstart) Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
+- [Flask React Boilerplate](https://github.com/alexkuz/flask-react-boilerplate) Flask and react Boilerplate
+- [Boilerplate Webpack React](https://github.com/tcoopman/boilerplate-webpack-react) Boilerplate project for Reactjs with webpack, gulp and stylus
+- [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
+- [React Redux minimal](https://github.com/flexdinesh/react-redux-boilerplate) A minimal React-Redux boilerplate with all the best practices
+- [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
+- [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
 - [HyperApp](#hyperapp)
- - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) Boilerplate showing how to create a production-ready Hyperapp application.
+- [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) Boilerplate showing how to create a production-ready Hyperapp application.
 - [Backbone](#backbone)
- - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
- - [Yeoman Backbone Generator](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
- - [benm](https://github.com/shorttompkins/benm) Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB.
+- [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
+- [Yeoman Backbone Generator](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
+- [benm](https://github.com/shorttompkins/benm) Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB.
 - [Jquery](#jquery)
- - [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
+- [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
 - [Polymer](#polymer)
- - [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps.
- - [Polymer Seed Element](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
- - [Yeoman Polymer Generator](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
+- [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps.
+- [Polymer Seed Element](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
+- [Yeoman Polymer Generator](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
 - [Electron](#electron)
- - [Electron React Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) A Foundation for Scalable Electron Apps
- - [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
- - [WhiteStormJS - React/Redux - three.js - TypeScript boilerplate](https://github.com/WhitestormJS/whitestorm-typescript-boilerplate) A starter kit for crafting 3D applications using modern technologies
+- [Electron React Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) A Foundation for Scalable Electron Apps
+- [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
+- [WhiteStormJS - React/Redux - three.js - TypeScript boilerplate](https://github.com/WhitestormJS/whitestorm-typescript-boilerplate) A starter kit for crafting 3D applications using modern technologies
 
 ## Hybrid Mobile App Frameworks
 
@@ -114,7 +114,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ## Python
 
-*Boilerplates and templates for Python*
+_Boilerplates and templates for Python_
+
 - [BeautyNet](https://github.com/cms-flash/beauty-net) A research project template for PyTorch.
 - [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
 - [CookieCutter](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey.
@@ -132,40 +133,41 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ## PHP
 
-*Boilerplates and templates for PHP*
+_Boilerplates and templates for PHP_
 
 - [Laravel Angular CouchDB](https://github.com/melvin0008/laravel-angular) Laravel Angular CouchDB Boilerplate
 
 ## Ruby
 
-*Boilerplates and templates for Ruby*
+_Boilerplates and templates for Ruby_
 
-- [AngularJS Rails Templates](https://github.com/pitr/angular-rails-templates) Rails and Angular Tempate. 
+- [AngularJS Rails Templates](https://github.com/pitr/angular-rails-templates) Rails and Angular Tempate.
 - [AngularJS Sinatra Bootstrap](https://github.com/dannolan/angularjs-sinatra-bootstrap-template) Angular Sinatra Bootstrap template.
 - [Rails Composer](http://railsapps.github.io/rails-composer/) Use Rails Composer to generate any of the example applications from the RailsApps project.
 - [Rails Bootstrap](https://github.com/RailsApps/rails-bootstrap) Starter App for Rails and Bootstrap
 
 ## .NET
 
-*Boilerplates and templates for C#.NET and ASP.NET*
+_Boilerplates and templates for C#.NET and ASP.NET_
 
 - [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
 
 ## Go
 
-*Boilerplates and templates for Go*
+_Boilerplates and templates for Go_
 
 - [Go React JSX Boilerplate](https://github.com/sharath/go-react-boilerplate) Starter code for a React + Go web application
 
 ## Browser Webextensions
 
-*Boilerplates and templates to develop webextensions for internet browsers such as Chrome, Firefox and Safari*
+_Boilerplates and templates to develop webextensions for internet browsers such as Chrome, Firefox and Safari_
 
 - [Boilerplate with Webpack](https://github.com/fstanis/webextensions-webpack-boilerplate) Using Webpack JS module manager
 
 ## Websites
 
-*Boilerplates and templates for Websites*
+_Boilerplates and templates for Websites_
+
 - [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
 - [Meteor boilerplate](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by Google.
@@ -180,14 +182,14 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ## IDE
 
-*Templating Systems for Different IDE's*
+_Templating Systems for Different IDE's_
 
 - [Yasnippet](https://github.com/capitaomorte/yasnippet) A template system for Emacs.
 - [Vim Template](https://github.com/aperezdc/vim-template) Simple Vim Templates plugin.
 
 ## GitHub
 
-*Boilerplates and template files*
+_Boilerplates and template files_
 
 - [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
 - [Pollinate](https://github.com/everysquare/pollinate) Template your base files and generate them from GitHub.

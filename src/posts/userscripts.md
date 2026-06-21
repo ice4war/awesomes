@@ -1657,7 +1657,7 @@ Xbox PriceLens - Add prices to Xbox game pages for every country.
 ## Top Contributors
 ![Top Contributors widget](https://embeddables.devactivity.com/orgs/awesome-scripts/a53c359f-f5a4-4f42-8542-4d0c78d27fad.svg)
 
-Check also our [Public Dashboard](https://app.devactivity.com/public/?organizationLogin=awesome-scripts) powered by [devActivity](https://devactivity.com/?ref=public_widget)
+Check also our [Public Dashboard](https://app.devactivity.com/public/?organizationLogin=ref=public_widget)
 
 
 

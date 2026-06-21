@@ -201,7 +201,7 @@ Contribute some ;)
 ---
 ### Contribution
 Your contributions and suggestions are welcome anytime. Build great stuffs with Preact, share with us ;) 
-Make sure you follow the [guidelines](/contributing.md.html). Thank you!
+Make sure you follow the [guidelines]. Thank you!
 
 ---
 ### License

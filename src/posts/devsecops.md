@@ -4,7 +4,7 @@ description: Curating the best DevSecOps resources and tooling.
 tags: ['devops', 'automation', 'docker', 'kubernetes', 'ci-cd']
 ---
 
-![Awesome](media/banner.png)
+![Awesome]
 
 
  

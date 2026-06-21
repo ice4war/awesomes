@@ -24,11 +24,11 @@ A curated list of chart and dataviz resources that developers may find useful. F
 
 Brought to you by 
 
-[![ZingChart](https://github.com/zingchart/awesome-charting/blob/assets/assets/zingchart-logo-full-color.svg?raw=true)](https://www.zingchart.com)
+[![ZingChart](https://github.com/zingchart/raw=true)](https://www.zingchart.com)
 
 A declarative, efficient, and simple JavaScript library for building responsive charts
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/branch=master)](https://travis-ci.org/zingchart/awesome-charting)
 
 **Table of Contents**
 * [Commercial Libraries](#commercial-libraries)

@@ -11,7 +11,7 @@ tags: ['typescript', 'javascript', 'web-development', 'frontend', 'programming']
 This list contains awesome (tech related) events happening in Italy like: conferences, meetups, workshops and parties 🎉 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
-- [What is an awesome list?](https://github.com/sindresorhus/awesome)
+- [What is an ](https://github.com/sindresorhus/awesome)
 - [Contribution guide](contributing.md.html)
 
 Available data formats: [json](data/2021.json) - [ics](data/2021.ics)

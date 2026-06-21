@@ -522,7 +522,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 Other amazingly awesome lists:
 
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - awesome-* or *-awesome lists.
-- [lists](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.
+- [lists](https://github.com/jnv/lists) - The definitive list of  lists curated on GitHub.
 - [Movies For Hacker](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Awesome Analytics](https://github.com/0xnr/awesome-analytics)

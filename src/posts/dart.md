@@ -11,7 +11,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md.html) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors); you rock!
+Please take a quick look at the [contribution guidelines]; you rock!
 
 ### Contents
 

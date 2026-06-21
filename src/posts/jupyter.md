@@ -4,7 +4,7 @@ description: A curated list of awesome Jupyter projects, libraries and resources
 tags: ['data-science', 'data-analysis', 'databases', 'big-data', 'analytics']
 ---
 
-# Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![HitCount](https://hits.dwyl.com/markusschanta/awesome-jupyter.svg?style=flat)](http://hits.dwyl.com/markusschanta/awesome-jupyter)
+# Awesome Jupyter [![Awesome](https://style=flat)](http://hits.dwyl.com/markusschanta/awesome-jupyter)
 
 A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and resources. Jupyter is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 

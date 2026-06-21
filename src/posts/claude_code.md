@@ -396,4 +396,4 @@ Pick Your Style:
 - [Claude Code GitHub Actions](https://github.com/anthropics/claude-code-action/tree/main/examples) by [Anthropic](https://github.com/anthropics) - Official GitHub Actions integration for Claude Code with examples and documentation for automating AI-powered workflows in CI/CD pipelines.
 
 ## Growing thanks to you
-[![Stargazers over time](https://starchart.cc/hesreallyhim/awesome-claude-code.svg?variant=adaptive)](https://starchart.cc/hesreallyhim/awesome-claude-code)
+[![Stargazers over time](https://starchart.cc/hesreallyhim/variant=adaptive)](https://starchart.cc/hesreallyhim/awesome-claude-code)

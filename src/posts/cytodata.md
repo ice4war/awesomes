@@ -8,7 +8,7 @@ tags: ['lisp', 'scheme', 'common-lisp']
 
 > A curated list of awesome cytodata resources.
 
-![cytodata logo](cytodata-logo.png)
+![cytodata logo]
 
 [Cytodata](https://cytodata.org/) refers to a community of researchers and resources involved in the **image-based profiling** of **biological phenotypes**.
 These **biological phenotypes** are typically induced by genetic or chemical perturbations and often represent disease states.

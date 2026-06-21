@@ -6,7 +6,7 @@ tags: ['security', 'cybersecurity', 'hacking', 'privacy', 'infosec']
 
 # Awesome EVM Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome EVM Security](awesome-evm-security.png)](https://github.com/kareniel/awesome-evm-security#readme)
+[![Awesome EVM Security]](https://github.com/kareniel/awesome-evm-security#readme)
 
 [EVM](https://ethereum.org/en/developers/docs/evm/) stands for "Ethereum Virtual Machine". The EVM powers the Ethereum mainnet, but also Layer 2 protocols, sidechains, and EVM-compatible chains.
 

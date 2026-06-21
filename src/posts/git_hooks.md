@@ -26,7 +26,7 @@ Git hooks are custom scripts you can use to automate tasks which are triggered b
 
 :heavy_check_mark: Grab & go! Copy the code you want to use and paste into your .git/hooks folder
 
-Contributions are _always_ welcome! Please see our [Contribution Guidelines](CONTRIBUTING.md.html). Also, if you don't find the script you want below, you can [create a new issue](https://github.com/CompSciLauren/awesome-git-hooks/issues/new?assignees=&labels=enhancement&template=new-git-hook-script-request.md&title=) to request it.
+Contributions are _always_ welcome! Please see our [Contribution Guidelines](CONTRIBUTING.md.html). Also, if you don't find the script you want below, you can [create a new issue](https://github.com/CompSciLauren/assignees=&labels=enhancement&template=new-git-hook-script-request.md&title=) to request it.
 
 ## Contents
 
@@ -103,7 +103,7 @@ Note: The icon next to each script signifies what language it is written in.
 2. Navigate to your project's hooks folder (.git/hooks).
 3. You should see a list of files already in there. Create a new file called the exact commit type that you want to use (eg: "commit-msg", "pre-rebase", "pre-commit", etc). Do not give it an extension.
 
-![create new file](create-new-file.gif)
+![create new file]
 
 4. Open your new file and paste the code from the hook you chose out of this repo (eg: [verify-name-and-email.hook](https://github.com/CompSciLauren/git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook)).
 5. Save file. Done! Now the Git hook will be triggered automatically.

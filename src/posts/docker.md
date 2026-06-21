@@ -790,7 +790,7 @@ Services to securely store your Docker images.
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/veggiemonk/awesome-docker.svg?variant=adaptive)](https://starchart.cc/veggiemonk/awesome-docker)
+[![Stargazers over time](https://starchart.cc/veggiemonk/variant=adaptive)](https://starchart.cc/veggiemonk/awesome-docker)
 
 [contributing]: https://github.com/veggiemonk/awesome-docker/blob/master/.github/CONTRIBUTING.md
 [calico]: https://github.com/projectcalico/calico

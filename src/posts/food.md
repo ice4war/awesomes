@@ -6,8 +6,8 @@ tags: ['lisp', 'scheme', 'common-lisp']
 
 # Awesome Food [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Awesome-food](awesome_food.png)
-
+![Awesome-food]
+![Awesome-food] list of food-related projects on GitHub
 > A curated list of food-related projects on GitHub
 
 ## Contents

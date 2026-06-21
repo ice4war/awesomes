@@ -10,7 +10,7 @@ tags: ['lisp', 'scheme', 'common-lisp']
 
 
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md). Found something cool? Please [contribute](CONTRIBUTING.md.html)!
+> Collections of  Please [contribute](CONTRIBUTING.md.html)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 

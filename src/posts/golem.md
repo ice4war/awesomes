@@ -22,24 +22,24 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Golem](#golem)
 - [Network Statistics](#network-statistics)
 - [Golem Projects](#Golem-Projects)
- - [GPU Provider](#GPU-Provider)
- - [Ray on Golem](#Ray-on-Golem)
- - [golem-js - the JS SDK from Golem](#golem-js---the-JS-SDK-from-Golem)
- - [Jupyter on Golem](#Jupyter-on-Golem)
- - [Rendering on Golem](#Rendering-on-Golem)
- - [Reputation System](#Reputation-System)
+- [GPU Provider](#GPU-Provider)
+- [Ray on Golem](#Ray-on-Golem)
+- [golem-js - the JS SDK from Golem](#golem-js---the-JS-SDK-from-Golem)
+- [Jupyter on Golem](#Jupyter-on-Golem)
+- [Rendering on Golem](#Rendering-on-Golem)
+- [Reputation System](#Reputation-System)
 - [Ecosystem](#Ecosystem)
- - [Blockchain Automations (aka Emeth.xyz)](#Blockchain-automations-(aka-Emeth.xyz))
+- [Blockchain Automations (aka Emeth.xyz)](<#Blockchain-automations-(aka-Emeth.xyz)>)
 - [Developer and Requestor Resources](#developer-and-requestor-resources)
 - [Provider Resources](#provider-resources)
- - [Monitoring](#monitoring)
- - [Provisioning](#provisioning)
+- [Monitoring](#monitoring)
+- [Provisioning](#provisioning)
 - [Learning Resources](#learning-resources)
- - [Presentations and Workshop Material](#presentations-and-workshop-material)
- - [Unraveling Golem's The Next Milestone Blog Series](#unraveling-golems-the-next-milestone-blog-series)
- - [GitHub Digest Blog Series](#github-digest-blog-series)
+- [Presentations and Workshop Material](#presentations-and-workshop-material)
+- [Unraveling Golem's The Next Milestone Blog Series](#unraveling-golems-the-next-milestone-blog-series)
+- [GitHub Digest Blog Series](#github-digest-blog-series)
 - [Archive](#Archive)
- - [Apps](#apps)
+- [Apps](#apps)
 
 ## Golem
 
@@ -71,11 +71,11 @@ We want to extend the capabilities of Golem Network for GPU workloads. Project s
 
 ### Jupyter on Golem
 
-[Jupyter on Golem](https://github.com/golemfactory/golem-kernel-python) is a JupyterLab Python kernel that empowers you to run your Python Notebooks using the decentralized resources available on the Golem Network. 
+[Jupyter on Golem](https://github.com/golemfactory/golem-kernel-python) is a JupyterLab Python kernel that empowers you to run your Python Notebooks using the decentralized resources available on the Golem Network.
 
 ### Rendering on Golem
 
-In close collaboration with Reality Games, we've developed a service that activates Golem's providers for rendering personalized building animations as a (web2) proof-of-ownership for ERC-1155 tokens. Learn more [here](https://reality.golem.network/) 
+In close collaboration with Reality Games, we've developed a service that activates Golem's providers for rendering personalized building animations as a (web2) proof-of-ownership for ERC-1155 tokens. Learn more [here](https://reality.golem.network/)
 
 ### Reputation System
 
@@ -121,7 +121,6 @@ Emeth specializes in DeFi (Decentralized Finance) portfolio management and block
 
 - [Golem: Distributed parallel computing with JavaScript](https://www.youtube.com/watch?v=2iUhqOJUsoI) - Presentation from Grzegorz Godlewski on Distributed Parallel Computing with JavaScript, based on Golem Network (meet.js Summit 2023).
 - [Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack](https://youtu.be/1UoZWC9XI2g) - Live workshop diving into how any developer with Python or JS coding experience can start build applications running on Golem.
- 
 
 ### Unraveling Golem's The Next Milestone Blog Series
 
@@ -184,7 +183,7 @@ Emeth specializes in DeFi (Decentralized Finance) portfolio management and block
 
 - [Golem Completion Engine](https://github.com/krunch3r76/gc__enhanced_completion) - Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.
 - [Golocity](https://github.com/davidstyers/golocity) - Build and deploy your dockerized applications on the Golem Network in just two commands.
-- [gc__push_image](https://github.com/figurestudios/gc__push_image) - A CLI tool that publishes the GVMI image to Skynet, making users able to change the image_url without self-hosting/giving up control.
+- [gc\_\_push_image](https://github.com/figurestudios/gc__push_image) - A CLI tool that publishes the GVMI image to Skynet, making users able to change the image_url without self-hosting/giving up control.
 
 #### Video Transcoding and Editing
 
@@ -193,6 +192,7 @@ Emeth specializes in DeFi (Decentralized Finance) portfolio management and block
 - [Golem Auto Editor](https://github.com/jedbrooke/golem-auto-editor) - Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.
 
 #### Data Analysis
+
 - [Coacervate](https://github.com/pryce-turner/coacervate/) - Coacervate is a free and open-source public good that lets you easily run genomic analyses on an extremely low-cost global supercomputer; democratizing access to the knowledge and infrastructure required to carry out groundbreaking research.
 - [Flan](https://github.com/nestorbonilla/flan) - Tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to.
 - [Golem Lorenz-attractor](https://github.com/hhio618/golem-lorenz-attractor) - A system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.
@@ -216,18 +216,22 @@ Emeth specializes in DeFi (Decentralized Finance) portfolio management and block
 - [Mutta Puffs](https://github.com/DeveloperInProgress/Mutta-Puffs) - Sports league scheduler that solves the Travelling Tournament Problem for a given set of teams using Population-based Simulated Annealing.
 
 #### Machine Learning
+
 - [DeML-Golem](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
 - [Golem Image Classifier](https://github.com/ControlCplusControlV/Golem-Image-Classifier) - Train and classify images through an active service.
 
 #### Deep Learning
+
 - [Mlg](https://github.com/rezahsnz/mlg) - CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.
 - [Deepart Golem](https://github.com/echinocacti/deepart_golem) - Makes art using distributed computing by running a tensorflow app, uploading your content and style picture.
 
 #### RNG
+
 - [Gandom](https://github.com/rezahsnz/gandom) - Extract random streams from providers. Supports two PRNGs, one based on Chaos machines and the other that makes use of Sodium.
 - [Entropythief](https://github.com/krunch3r76/entropythief) - Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).
 
 #### Password Recovery
+
 - [Golem-JTR](https://github.com/hhio618/golem-jtr) - Run John The Ripper to recover a password.
 - [Yacat](https://docs.golem.network/docs/creators/python/tutorials/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
 
@@ -242,9 +246,8 @@ Emeth specializes in DeFi (Decentralized Finance) portfolio management and block
 
 #### Miscellaneous
 
-- [Gc__ListOffers](https://github.com/krunch3r76/gc__listoffers) - List offers by providers on the Golem Network with a GUI.
+- [Gc\_\_ListOffers](https://github.com/krunch3r76/gc__listoffers) - List offers by providers on the Golem Network with a GUI.
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - Golemized docker image for compiling the VIM editor.
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - A tool to sharpen images.
 - [Filterms](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
 - [golem-bulk-image-handler](https://github.com/figurestudios/golem-bulk-image-handler) - Takes an input image and processes it in many different ways using the Pillow library.
-

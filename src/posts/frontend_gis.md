@@ -79,7 +79,7 @@ Libraries for creating web maps:
 ### Data Processing 
 Libraries that help you analyse and process geospatial data:
 - [Arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format. ![GitHub stars](https://img.shields.io/github/stars/springmeyer/arc.js?style=social)
-- [awesome-GeoJSON](https://github.com/tmcw/awesome-geojson) - Catalogue of GeoJSON tools. ![GitHub stars](https://img.shields.io/github/stars/tmcw/awesome-geojson?style=social)
+- [style=social)
 - [Euclid.ts](https://github.com/mathigon/euclid.js) - 2D Euclidean geometry classes, utilities, and drawing tools. ![GitHub stars](https://img.shields.io/github/stars/mathigon/euclid.js?style=social)
 - [flatbush](https://github.com/mourner/flatbush) - A really fast static spatial index for 2D points and rectangles in JavaScript. ![GitHub stars](https://img.shields.io/github/stars/mourner/flatbush?style=social)
 - [FlatGeoBuf](https://github.com/flatgeobuf/flatgeobuf) - A performant binary encoding for geographic data based on flatbuffers. ![GitHub stars](https://img.shields.io/github/stars/flatgeobuf/flatgeobuf?style=social)

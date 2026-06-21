@@ -23,7 +23,7 @@ export default {
   root: "src",
 
   // Some additional configuration options and their defaults:
-  theme: "air",
+  theme: "light",
   // theme: "light", // try "light", "dark", "slate", etc.
   // style: "style.css",
   header: "", // what to show in the header (HTML)

@@ -19,7 +19,7 @@ tags:
 
 In parternship with:
 
-[![Codemotion](https://github.com/matteocrippa/awesome-swift/blob/master/.github/images/codemotion_logo.png?raw=true)](https://codemo.tech/partners)
+[![Codemotion](https://github.com/matteocrippa/raw=true)](https://codemo.tech/partners)
 
 ### Contents
 
@@ -1811,4 +1811,4 @@ In parternship with:
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md.html) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!!
+Please take a quick look at the [contribution guidelines] first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!!

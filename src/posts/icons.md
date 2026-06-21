@@ -1,14 +1,14 @@
 ---
 title: Awesome Icons
 description: A curated list of awesome downloadable SVGPNGFont icon projects
-tags: ['blockchain', 'cryptocurrency', 'bitcoin', 'ethereum', 'web3']
+tags: ["blockchain", "cryptocurrency", "bitcoin", "ethereum", "web3"]
 ---
 
 # Awesome Icons [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome downloadable SVG/PNG/Font icon projects
 
-![Banner](./media/banner.png)
+![Banner]
 
 ## Contents
 
@@ -16,9 +16,9 @@ tags: ['blockchain', 'cryptocurrency', 'bitcoin', 'ethereum', 'web3']
 - [Logos](#logos)
 - [Special](#special)
 - [Other](#other)
- - [CSS only](#css-only)
- - [Paid](#paid)
- - [Frameworks](#frameworks)
+- [CSS only](#css-only)
+- [Paid](#paid)
+- [Frameworks](#frameworks)
 
 ## General
 

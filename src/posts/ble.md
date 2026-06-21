@@ -1,12 +1,12 @@
 ---
 title: "Ble"
 description: "Awesome BLE [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
-tags: ['lisp', 'scheme', 'common-lisp']
+tags: ["lisp", "scheme", "common-lisp"]
 ---
 
 # Awesome BLE [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-![](.github/awesome-ble.png)
+![]
 
 **Bluetooth Low Energy (BLE)**: Low-power wireless communication protocol enabling efficient data exchange between devices, ideal for IoT, wearables, and other battery-powered applications.
 
@@ -17,12 +17,14 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 ## Contents
 
 ### Hardware
+
 - [Arduino](#arduino)
 - [ESP](#esp)
 - [Nordic](#nordic)
 - [RaspberryPi](#raspberrypi)
 
 ### Mobile
+
 - [Android](#android)
 - [Flutter](#flutter)
 - [KMM](#kmm)
@@ -157,5 +159,5 @@ _A list of resources dedicated to RaspberryPi hardware_
 
 _Interesting articles and case studies from BLE development_
 
-- [Scan and connect to BLE in background on iOS](https://medium.com/@cbartel/ios-scan-and-connect-to-a-ble-peripheral-in-the-background-731f960d520d) - Article discussing case study (for both firmware and app) of scanning and connecting to BLE device in background 
+- [Scan and connect to BLE in background on iOS](https://medium.com/@cbartel/ios-scan-and-connect-to-a-ble-peripheral-in-the-background-731f960d520d) - Article discussing case study (for both firmware and app) of scanning and connecting to BLE device in background
 - [Deep dive to iOS advertising in backgroud](http://www.davidgyoungtech.com/2020/05/07/hacking-the-overflow-area) - Delves into iOS's proprietary 'Overflow Area' for background Bluetooth advertising and it's possibilities and limitations for background data exchange.

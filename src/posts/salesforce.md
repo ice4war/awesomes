@@ -9,7 +9,7 @@ tags: ['lisp', 'scheme', 'common-lisp']
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/mailtoharshit/utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Useful resources for creating apps with [Salesforce](https://login.salesforce.com/)
 
@@ -18,7 +18,7 @@ tags: ['lisp', 'scheme', 'common-lisp']
 ## What is Awesome Salesforce ?
 Awesome is awesome project started by [Sindre Sorhus](https://github.com/sindresorhus) who is most popular person on [Github](https://github.com/sindresorhus). He created a project to list down coolest of links bookmarked in your machines and organized them together by compiling them at one place. Later, this projects caught fire and developers community around the world started writing awesome pages (dedicated to their favorite technology).
 
-## What makes for an awesome list?
+## What makes for an 
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
 ## The Fiery Meter of AWSome

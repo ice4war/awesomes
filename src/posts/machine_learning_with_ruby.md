@@ -6,7 +6,7 @@ tags: ['artificial-intelligence', 'machine-learning', 'audio', 'web', 'ml']
 
 
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+[![Awesome](https://style=flat-square)](https://www.patreon.com/arbox)
 
 [[RubyNLP](https://github.com/arbox/nlp-with-ruby) |
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |

@@ -11,7 +11,7 @@ tags:
 
 # Awesome Game Production [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome Game Production](media/awesome_game_production.jpg)](https://github.com/vhladiienko/awesome-game-production)
+[![Awesome Game Production]
 
 > A curated list of **awesome** resources, related to game production process - books, articles, tools, project management, methodologies - aimed to help game producers deliver their games.
 

@@ -8,7 +8,7 @@ tags: ['lisp', 'scheme', 'common-lisp']
 
 > A curated list of awesome inspectIT documentations and resources.
 
-[![inspectIT](media/inspectit.png)](http://www.inspectit.rocks/)
+[![inspectIT]
 
 inspectIT is an open source APM (Application Performance Management) tool for analyzing Java (EE) applications.
 

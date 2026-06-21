@@ -133,7 +133,7 @@ really know what they are doing :)
 - [Microservices Anti-Patterns](https://www.youtube.com/watch?v=I56HzTKvZKc) By Tammer Saleh
 - [Facebook and memcached](https://www.youtube.com/watch?v=UH7wkvcf0ys) By Mark Zuckerberg
 - [Operations on Twitter: Scaling Beyong 100 Million Users](https://www.youtube.com/watch?v=z8LU0Cj6BOU) By John Adams
-- [An overview of HTTP/2](//www.youtube.com/watch?v=-yxQIRl6Qic) By Daniel Sommermann
+- [An overview of HTTP/2] By Daniel Sommermann
 - [Say Hello to Offline-First](https://www.youtube.com/watch?v=nNfaxNdyCgI) By Ola Gasidlo
 - [OSCON 2014: How Instagram.com Works Pete Hunt](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) By Pete Hunt
 

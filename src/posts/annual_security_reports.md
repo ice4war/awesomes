@@ -5,7 +5,7 @@ tags: ['security', 'cybersecurity', 'hacking', 'privacy', 'infosec']
 ---
 
 # Awesome Annual Security Reports [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![Awesome Annual Security Reports Logo](.github/images/awesome-security-reports-logo.png)
+![Awesome Annual Security Reports Logo]
 > A curated list of annual cyber security reports - Centralized annual cybersecurity analysis and industry surveys
 
 **Definition:** The cybersecurity landscape is constantly evolving, making it hard for CIOs, CISOs, and security leaders to keep up. They're flooded with annual reports from research consultancies, industry working groups, non-profits, and government agencies, and sifting through marketing material to find actionable insights is a major challenge. This list aims to cut through the noise by providing a vendor-neutral resource for the latest security trends, tools, and partnerships. It curates information from trusted sources, making it easier for security leaders to make informed decisions.
@@ -14,18 +14,18 @@ tags: ['security', 'cybersecurity', 'hacking', 'privacy', 'infosec']
 
 **Limitations:** This is **not** a repository for project-specific documents such as white papers, intelligence reports, technical specifications, or standards. While all user-submitted uploads or report requests are welcome, we should draw a box around this _awesome_ list. 
 
-**Accessibility:** When possible, all reports will be sourced from their original authors and uploaded to [Virus Total](https://virustotal.com/) via GitHub action to provide an added level of confidence. The resulting analysis link will be included in the PDF commit notes. Additionally, all PDF reports will be converted to Markdown using AI, based on the [AI Prompts](/.github/ai-prompts) defined in this repository.
+**Accessibility:** When possible, all reports will be sourced from their original authors and uploaded to [Virus Total](https://virustotal.com/) via GitHub action to provide an added level of confidence. The resulting analysis link will be included in the PDF commit notes. Additionally, all PDF reports will be converted to Markdown using AI, based on the [AI Prompts] defined in this repository.
 
 **Acknowledgement:** I would like to give recognition for other works that inspired this collection. [Richard Stiennon](https://www.linkedin.com/in/stiennon) produces an annual comprehensive cybersecurity industry analysis at [IT Harvest](https://dashboard.it-harvest.com/) that deserves attention of those in the industry. Additionally, [Rick Howard](https://www.linkedin.com/in/rickhoward/)'s [Cyber Cannon](https://cybercanon.org/) list of must-read books is a timeless resource of curated wisdom, catering to both leadership and practitioner levels within the field.
 
 **Annual Report Counts:** \
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2020?type=file&style=flat-square&label=2020%20Reports)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2021?type=file&style=flat-square&label=2021%20Reports)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2022?type=file&style=flat-square&label=2022%20Reports)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2023?type=file&style=flat-square&label=2023%20Reports)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2024?type=file&style=flat-square&label=2024%20Reports)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2025?type=file&style=flat-square&label=2025%20Reports)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2026?type=file&style=flat-square&label=2026%20Reports)
+![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/type=file&style=flat-square&label=2020%20Reports)
+![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/type=file&style=flat-square&label=2021%20Reports)
+![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/type=file&style=flat-square&label=2022%20Reports)
+![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/type=file&style=flat-square&label=2023%20Reports)
+![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/type=file&style=flat-square&label=2024%20Reports)
+![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/type=file&style=flat-square&label=2025%20Reports)
+![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/type=file&style=flat-square&label=2026%20Reports)
 
 ## Contents
 

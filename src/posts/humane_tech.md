@@ -4,7 +4,7 @@ description: Tech and social media is having a big impact on our society. While 
 tags: ['awesome', 'resources', 'collections', 'lists', 'tools']
 ---
 
-# Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)
+# Awesome Humane Tech [![Awesome](https://sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humanetech-tech-distraction.jpg)](https://community.humanetech.com)
 
@@ -12,7 +12,7 @@ tags: ['awesome', 'resources', 'collections', 'lists', 'tools']
 
 Tech and social media is having a big impact on our society. While many innovative technology inventions are improving our lives, there is increasing awareness on negative impacts that come with these trends, such as large-scale privacy invasion, surveillance capitalism, and tech monopolies. They lead to social media addiction, mental health issues, and are even eroding the fabric of our society.
 
-[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/sanitize=true)](https://humanetech.community)
 
 Our mission is: [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) 
 

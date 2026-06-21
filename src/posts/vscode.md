@@ -83,13 +83,13 @@ out awesome.
  - [ReasonML](#reasonml)
  - [Rust](#rust)
  - [Terraform](#terraform)
-- [GitHub](#github)
- - [GitHub](#github-1)
- - [GitHub Pull Requests and Issues](#github-pull-requests-and-issues)
+- [GitHub]
+ - [GitHub]
+ - [GitHub Pull Requests and Issues]
  - [GistPad](#gistpad)
- - [GitHub Actions](#github-actions)
- - [GitHub Repositories](#github-repositories)
- - [GitHub Pull Request Monitor](#github-pull-request-monitor)
+ - [GitHub Actions]
+ - [GitHub Repositories]
+ - [GitHub Pull Request Monitor]
 - [Productivity](#productivity)
  - [ARM Template Viewer](#arm-template-viewer)
  - [Azure Cosmos DB](#azure-cosmos-db)
@@ -208,7 +208,7 @@ out awesome.
  - [Edge by Bogdan Lazar](#edge-by-bogdan-lazar)
  - [Eva Theme by fisheva](#eva-theme-by-fisheva)
  - [Fairy Floss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
- - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
+ - [GitHub Theme by Thomas Pink]
  - [Jellybeans Theme by Dimitar Nonov](#jellybeans-theme-by-dimitar-nonov)
  - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
  - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
@@ -454,7 +454,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 ### Framework-specific
 
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Toolkit for Vue.js
-![Vetur](screenshots/Vetur.png)
+![Vetur]
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
@@ -709,7 +709,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by shortcut:
 
-![Toggle example demo](screenshots/toggle-example.gif)
+![Toggle example demo]
 
 ## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 

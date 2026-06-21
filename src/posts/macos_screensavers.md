@@ -31,43 +31,43 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 > A flip clock screensaver.
 
-[![](screenshots/fliqlo.png)](http://fliqlo.com/)
+[![]
 
 ### Today
 
 > Time or date displayed in a similar way to On Kawara's "Today Series" paintings.
 
-[![](screenshots/today.png)](http://www.gingerbeardman.com/today/)
+[![]
 
 ### Word Clock
 
 > A clock made of words. It switches between a circular and a paragraph layout.
 
-[![](screenshots/wordClock.png)](https://www.simonheys.com/wordclock/)
+[![]
 
 ### Fractal Clock
 
 > A clock that produces a fractal tree pattern around it as it moves.
 
-[![](screenshots/fractalClock.png)](http://www.dqd.com/~mayoff/programs/FractalClock/)
+[![]
 
 ### Epoch Flip Clock
 
 > Unix Time (epoch) flip clock.
 
-[![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/)
+[![]
 
 ### Grid Clock
 
 > Twelve hour time in words.
 
-[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/)
+[![]
 
 ### Word Clock
 
 > A super simple word clock, like your computer is typing the time for you.
 
-[![](screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
+[![]
 
 ### Simple Clock
 
@@ -75,19 +75,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 Free
 
-[![](screenshots/simpleClock.png)](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/)
+[![]
 
 ### ColorClock
 
 > Displays a solid color corresponding to the current time.
 
-[![](screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
+[![]
 
 ### ScreenMazer
 
 > Continuously builds and then solves a maze, while displaying the current time.
 
-[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
+[![]](https://github.com/dado3212/screenmazer)
 
 ### Evangelion Clock
 
@@ -95,19 +95,19 @@ Free
 
 Free
 
-[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
+[![]
 
 ### Predator
 
 > A predator-inspired clock screensaver.
 
-[![](screenshots/predator.png)](https://github.com/vpeschenkov/Predator)
+[![]
 
 ### Death Counter
 
 > A simple counter screensaver that counts down to your death.
 
-[![](screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter)
+[![]
 
 ### MinimalClock
 
@@ -115,13 +115,13 @@ Free
 
 Free
 
-[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
+[![]
 
 ### MultiClock
 
 > Displays the time (and animations) using 24 individual clocks
 
-[![](screenshots/multiclock.png)](https://github.com/amiantos/multiclock)
+[![]
 
 ### Flip Clock Screensaver
 
@@ -129,13 +129,13 @@ Free
 
 Free
 
-[![](screenshots/FlipClockScreensaver.jpg)](https://www.smart-app.dev/downloads/downloads.html)
+[![]
 
 ### Digital Electric
 
 > A vintage screensaver inspired by old-fashioned alarm clocks.
 
-[![](screenshots/digital-electric-screensaver.png)](https://quismi.com/digital-electric)
+[![]
 
 ## Apple Inspired
 
@@ -143,19 +143,19 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial)
+[![]
 
 ### Apple Watch
 
 > A screensaver that looks like an Apple Watch.
 
-[![](screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
+[![]
 
 ### Brooklyn
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
+[![]
 
 Free
 
@@ -169,7 +169,7 @@ Free
 
 > A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
-[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
+[![]
 
 Free
 
@@ -177,7 +177,7 @@ Free
 
 > A screensaver that looks like the lockscreen on iPhone and iPad.
 
-[![](screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-8-screen-saver/)
+[![]
 
 ### October 30
 
@@ -185,13 +185,13 @@ Free
 
 Free
 
-[![](screenshots/october30.png)](https://github.com/lekevicius/october30)
+[![]
 
 ### Fruit
 
 > Animated vintage Apple logo
 
-[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit)
+[![]
 
 Free
 
@@ -199,7 +199,7 @@ Free
 
 > Recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
 
-[![](screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble)
+[![]
 
 Free (Open Source)
 
@@ -209,7 +209,7 @@ Free (Open Source)
 
 > PongSaver is an macOS screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
 
-[![](screenshots/pongSaver.png)](https://mikeash.com/software/pongsaver/)
+[![]
 
 ### Textify Me
 
@@ -217,7 +217,7 @@ Free (Open Source)
 
 $0.99
 
-[![](screenshots/textifyMe.png)](https://itunes.apple.com/us/app/textify-me/id470453599)
+[![]
 
 ## Sci-Fi
 
@@ -225,19 +225,19 @@ $0.99
 
 > The latest commits from GitHub visualized in a Matrix-style animation.
 
-[![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver)
+[![]
 
 ### StarWarsScroll
 
 > Recreates the opening titles of the first 6 Star Wars movies.
 
-[![](screenshots/starWarsScroll.png)](http://download.cnet.com/StarWarsScroll-Screen-Saver/3000-2257_4-82580.html)
+[![]
 
 ### Matrix
 
 > One interpretation of The Matrix.
 
-[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload)
+[![]
 
 ## Video Game
 
@@ -245,7 +245,7 @@ $0.99
 
 > Plays videos of people completing speed runs of games.
 
-[![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver)
+[![]
 
 ## Aquarium
 
@@ -253,7 +253,7 @@ $0.99
 
 > Video of aquariums.
 
-[![](screenshots/aquariumLive.png)](https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503)
+[![]
 
 ## Developer
 
@@ -261,7 +261,7 @@ $0.99
 
 > A macOS Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com) (unofficial).
 
-[![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
+[![]
 
 ### MacOS Kernel Panic
 
@@ -269,7 +269,7 @@ $0.99
 
 Free
 
-[![](screenshots/macosKernelPanic.png)](http://doomlaser.com/kernel-panic-screensaver/)
+[![]
 
 ### Windows Kernel Panic
 
@@ -277,7 +277,7 @@ Free
 
 Free
 
-[![](screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver)
+[![]
 
 ### octoscreen
 
@@ -285,7 +285,7 @@ Free
 
 Free (Open Source)
 
-[![](screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen)
+[![]
 
 ## Graphics
 
@@ -295,7 +295,7 @@ Free (Open Source)
 
 Free
 
-[![](screenshots/electricSheep.png)](http://electricsheep.org/)
+[![]
 
 ### Screensson
 
@@ -303,7 +303,7 @@ Free
 
 Donationware
 
-[![](screenshots/screensson.png)](http://www.siggieggertsson.com/Saver-Screensson)
+[![]
 
 ### Emoji Saver
 
@@ -311,7 +311,7 @@ Donationware
 
 Lite Version (Free) and Full Version ($3)
 
-[![](screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
+[![]
 
 ### Life Saver
 
@@ -319,7 +319,7 @@ Lite Version (Free) and Full Version ($3)
 
 Free (Open Source)
 
-[![](screenshots/lifesaver.png)](https://www.github.com/amiantos/lifesaver)
+[![]
 
 ### ElectropaintOSX
 
@@ -335,7 +335,7 @@ Free (Open Source)
 
 Free (Open Source)
 
-[![](screenshots/ealain-examples.jpg)](https://www.github.com/amiantos/ealain)
+[![]
 
 ## Other
 
@@ -345,7 +345,7 @@ Free (Open Source)
 
 Free
 
-[![](screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
+[![]
 
 ### Last Statement
 
@@ -353,7 +353,7 @@ Free
 
 Free (Open Source)
 
-[![](screenshots/last-statement.png)](https://www.github.com/amiantos/last-statement)
+[![]
 
 ### macOS Live Screensaver
 
@@ -361,7 +361,7 @@ Free (Open Source)
 
 Free (Open Source)
 
-[![](screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver)
+[![]
 
 ## Collections
 
@@ -371,6 +371,6 @@ Free (Open Source)
 
 Free (pay what you want)
 
-[![](screenshots/johansson.png)](https://vsxop.com/work/screensavers)
+[![]
 
 ---

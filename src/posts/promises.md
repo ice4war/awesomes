@@ -79,7 +79,7 @@ All of these provide more features than the language yet remain compatible. Node
 * [any-promise](https://github.com/kevinbeaty/any-promise) - Loads the first available implementation. Safe for browserify.
 
 ## Convenience Utilities
-Native and strictly spec-compliant promises are awesome for compatibility, future-proofness, library authors, and browsers. However, libraries like bluebird patch goodies onto the `Promise` constructor and prototype. Solution? tiny modules of course!
+Native and strictly spec-compliant promises are  tiny modules of course!
 
 ### sindresorhus's many Promise utilities ([see notes](https://github.com/sindresorhus/promise-fun))
 * [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.

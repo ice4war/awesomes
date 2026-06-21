@@ -1,7 +1,7 @@
 ---
 title: "Regression Testing"
 description: "Awesome Visual Regression Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-tags: ['tools', 'devtools', 'editor', 'vscode', 'vim']
+tags: ["tools", "devtools", "editor", "vscode", "vim"]
 ---
 
 # Awesome Visual Regression Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -12,9 +12,9 @@ Regression testing is a type of software testing which verifies that software wh
 
 ## Foreword
 
-This is intended to be an *incomplete* list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awesome-testing](https://github.com/TheJambo/awesome-testing).
+This is intended to be an _incomplete_ list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing _after_ the code in question is written. For a awesome list on general software testing see e.g. [awesome-testing](https://github.com/TheJambo/awesome-testing).
 
-Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](.github/CONTRIBUTING.md.html) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ⭐️**.
+Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute] page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ⭐️**.
 
 ## Contents
 
@@ -26,9 +26,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Slideshows, talks and videos](#slideshows-talks-and-videos)
 - [Deprecated](#deprecated)
 - [Miscellaneous](#Miscellaneous)
- - [Contributing](#contributing)
- - [Code of Conduct](#code-of-conduct)
- - [License](#license)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
 
 ## General information
 
@@ -96,7 +96,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 - [applitools](https://applitools.com) - Cloud base visual tests.
 - [Argos](https://argos-ci.com) - The open source visual testing platform for modern engineering teams.
-- [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage. 
+- [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage.
 - [Browser Shots](http://browsershots.org) - Screenshots only.
 - [browserling](https://www.browserling.com) - LIVE interactive cross-browser testing.
 - [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
@@ -114,7 +114,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
 - [Micoo](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
 - [percy.io](https://percy.io) - Continuous visual reviews for web apps.
-- [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer. 
+- [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer.
 - [Preflight: Cypress Recorder](https://cypress.preflight.com) - Create AI-powered Cypress Tests/POM models in your browser and automate Email & Visual testing for Cypress.
 - [Preflight](https://preflight.com) - Easiest Visual regression testing and Automated Web Testing tool. (Limited) free use.
 - [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
@@ -189,16 +189,17 @@ The following projects are no longer maintained actively but are still worth men
 
 ### Contributing
 
-See the [Contribution Guide](.github/CONTRIBUTING.md.html) for details on how to contribute.
+See the [Contribution Guide] for details on how to contribute.
 
 ### Code of Conduct
 
-See the [Code of Conduct](.github/CODE-OF-CONDUCT.md.html) for details. Basically it comes down to:
+See the [Code of Conduct] for details. Basically it comes down to:
+
 > In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and orientation.
+> contributors and maintainers pledge to making participation in our project and
+> our community a harassment-free experience for everyone, regardless of age, body
+> size, disability, ethnicity, gender identity and expression, level of experience,
+> nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ### License
 

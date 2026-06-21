@@ -176,7 +176,7 @@ The built-in available custom agents are:
 - Edit
 - Plan
 - AIAgentExpert
-- Configure Custom Agents (create your own)
+- Configure Custom Agents 
 
 ### AI Development Mode
 

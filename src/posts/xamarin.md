@@ -1,10 +1,10 @@
 ---
 title: "Xamarin"
-description: "~~# Awesome-Xamarin [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](htt"
+description: "~~# Awesome-Xamarin [![Awesome](https://style=flat-square)](htt"
 tags: ['mobile', 'android', 'ios', 'cordova', 'ionic', 'flutter', 'xamarin']
 ---
 
-~~# Awesome-Xamarin [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)~~
+~~# Awesome-Xamarin [![Awesome](https://style=flat-square)](http://makeapullrequest.com)~~
 
 This repo is now **ARCHIVED**, please refer to [awesome-dotnet-maui](https://github.com/jsuarezruiz/awesome-dotnet-maui)
 

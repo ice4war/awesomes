@@ -1,34 +1,34 @@
 ---
 title: Awesome Rails
 description: A curated list of awesome things related to Ruby on Rails Awesomehttpsgithub.comsindresorhusawesomereadme
-tags: ['artificial-intelligence', 'machine-learning', 'audio', 'web', 'ml']
+tags: ["artificial-intelligence", "machine-learning", "audio", "web", "ml"]
 ---
 
 # Awesome Rails
 
 > A curated list of awesome things related to Ruby on Rails [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-![awesome-rails](./.github/assets/awesome-rails.png)
+![awesome-rails]
 
 ## Table of Contents
 
 - [Resources](#resources)
- - [Official Resources](#official-resources)
- - [External Resources](#external-resources)
- - [Books](#books)
- - [Video tutorials](#video-tutorials)
- - [Youtube channels](#youtube-channels)
- - [Other external resources](#other-external-resources)
- - [Jobs](#jobs)
- - [Community](#community)
- - [Articles](#articles)
+- [Official Resources](#official-resources)
+- [External Resources](#external-resources)
+- [Books](#books)
+- [Video tutorials](#video-tutorials)
+- [Youtube channels](#youtube-channels)
+- [Other external resources](#other-external-resources)
+- [Jobs](#jobs)
+- [Community](#community)
+- [Articles](#articles)
 - [Open Source Rails Apps](#open-source-rails-apps)
 - [Gems](#gems)
 - [Starters/Boilerplates](#startersboilerplates)
 - [Other Rails Tools](#other-rails-tools)
- - [Platforms](#platforms)
- - [Generators](#generators)
- - [DevTools](#devtools)
+- [Platforms](#platforms)
+- [Generators](#generators)
+- [DevTools](#devtools)
 
 ## Resources
 
@@ -57,13 +57,14 @@ tags: ['artificial-intelligence', 'machine-learning', 'audio', 'web', 'ml']
 - [The Rails 7 Way](https://leanpub.com/therails7way)
 
 #### Video courses
+
 - [Full Stack Rails Mastery](https://learnetto.com/users/hrishio/courses/full-stack-rails-mastery)
 
 #### Video tutorials
 
-- [RailsCasts](http://railscasts.com) *(inactive since 2013)
-- [GoRails](https://gorails.com) *(freemium)
-- [Drifting Ruby](https://www.driftingruby.com/) *(freemium)
+- [RailsCasts](http://railscasts.com) \*(inactive since 2013)
+- [GoRails](https://gorails.com) \*(freemium)
+- [Drifting Ruby](https://www.driftingruby.com/) \*(freemium)
 - [A curated list of Ruby on Rails courses](https://skillcombo.com/topic/ruby-on-rails/)
 
 #### Youtube channels
@@ -151,11 +152,7 @@ tags: ['artificial-intelligence', 'machine-learning', 'audio', 'web', 'ml']
 - [Building a Component Library in Rails With Storybook](https://dev.to/orbit/building-a-component-library-in-rails-with-storybook-49m4)
 - [How to Speed Up Load Times In A Rails App - What I Wish I Knew Four Months Ago](https://dev.to/nicklevenson/how-to-speed-up-load-times-in-a-rails-app-what-i-wish-i-knew-four-months-ago-28g0)
 - [Endless Scroll / Infinite Loading with Turbo Streams & Stimulus](https://dev.to/zealot128/endless-scroll-infinite-loading-with-turbo-streams-stimulus-5d89)
-- [Ruby/Rails Machine Setup Guide](https://dev.to/hasanadeem/ruby-rails-machine-setup-guide-3l5a)
--[How many Heroku dynos do you need, and which size—An opinionated guide](https://dev.to/adamlogic/how-many-heroku-dynos-do-you-need-and-which-size-an-opinionated-guide-4fec)
--[Rails Environment Variables Using Credentials](https://dev.to/dalezak/rails-environment-variables-using-credentials-mh7)
--[Email Subscription Workflow - Ruby on Rails](https://dev.to/justalever/email-subscription-workflow-ruby-on-rails-406n)
--[Mastering Low Level Caching in Rails](https://dev.to/honeybadger/mastering-low-level-caching-in-rails-15ce)
+- [Ruby/Rails Machine Setup Guide](https://dev.to/hasanadeem/ruby-rails-machine-setup-guide-3l5a) -[How many Heroku dynos do you need, and which size—An opinionated guide](https://dev.to/adamlogic/how-many-heroku-dynos-do-you-need-and-which-size-an-opinionated-guide-4fec) -[Rails Environment Variables Using Credentials](https://dev.to/dalezak/rails-environment-variables-using-credentials-mh7) -[Email Subscription Workflow - Ruby on Rails](https://dev.to/justalever/email-subscription-workflow-ruby-on-rails-406n) -[Mastering Low Level Caching in Rails](https://dev.to/honeybadger/mastering-low-level-caching-in-rails-15ce)
 
 > from shopify.engineering:
 
@@ -381,7 +378,7 @@ tags: ['artificial-intelligence', 'machine-learning', 'audio', 'web', 'ml']
 - [vglist](https://github.com/connorshea/vglist) - A video game library tracking web app (using Rails 7.0). - [:earth_africa:](https://vglist.co/)
 - [websiteOne](https://github.com/AgileVentures/WebsiteOne) - A project tracking app (using Rails 6.1).
 - [whitehall](https://github.com/alphagov/whitehall) - A content management app used by UK government - using Rails 7.0
-[Back to top][link_toc]
+  [Back to top][link_toc]
 
 ## Gems
 
@@ -548,9 +545,9 @@ tags: ['artificial-intelligence', 'machine-learning', 'audio', 'web', 'ml']
 
 ### Generators
 
-| Generator | Ready to run | Complex Apps | Sets git | Heroku config |
-| --------- | ------------ | ------------ | -------- | ------------- |
-| [Rails Composer](https://github.com/RailsApps/rails-composer)| yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes | yes |
+| Generator                                                     | Ready to run                           | Complex Apps                              | Sets git | Heroku config |
+| ------------------------------------------------------------- | -------------------------------------- | ----------------------------------------- | -------- | ------------- |
+| [Rails Composer](https://github.com/RailsApps/rails-composer) | yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes      | yes           |
 
 [Back to top][link_toc]
 

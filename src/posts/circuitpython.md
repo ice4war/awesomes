@@ -1,21 +1,14 @@
 ---
 title: Awesome Circuitpython
 description: A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
-tags: ['python', 'programming', 'data-science', 'development', 'libraries']
+tags: ["python", "programming", "data-science", "development", "libraries"]
 ---
 
 # Awesome CircuitPython
 
-
- 
-
-
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
-
-
 
 [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython) is Adafruit's branch of MicroPython designed to simplify experimentation and education on low-cost microcontrollers. It makes it easier than ever to start prototyping by requiring no upfront desktop software downloads. With CircuitPython you can write clean and simple Python code to control hardware instead of having to use complex low-level languages like C or C++ (what Arduino uses for programming). It's great for beginners!
 
@@ -41,7 +34,7 @@ tags: ['python', 'programming', 'data-science', 'development', 'libraries']
 
 ## CircuitPython.org
 
-[![CircuitPython.org](./assets/circuitpython-org.png)](https://circuitpython.org/)
+[![CircuitPython.org]](https://circuitpython.org/)
 
 [CircuitPython.org](https://circuitpython.org/) is the first stop on the information snake highway. Here you can see all the [supported boards and download](https://circuitpython.org/downloads) the specific firmware for each one, including beta, latest, and previous versions. Downloads can be sorted by: maker, features, name, and more. At this time there are over 500 boards supported in the CircuitPython family!
 

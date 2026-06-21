@@ -12,23 +12,23 @@ Inspired by [wasabeef]'s excellent [Android Version].
 
 ### Contributing
 
-Found a UI/UX library that you think is _awesome_?? Want to share it with the world? Add your repo's information to my [awesome-creator], where I keep the library metadata!
+Found a UI/UX library that you think is _ Add your repo's information to my [awesome-creator], where I keep the library metadata!
 
 ### Index
-* [Animations and Transitions](#animations-and-transitions) - [file](/pages/Animations.md.html)
-* [Badges](#badges) - [file](/pages/Badges.md.html)
-* [Calendars](#calendars) - [file](/pages/Calendars.md.html)
-* [Effects](#effects) - [file](/pages/Effects.md.html)
-* [Material Design](#material-design) - [file](/pages/MaterialDesign.md.html)
-* [Notifications and Alerts](#notifications-and-alerts) - [file](/pages/NotificationsAlerts.md.html)
-* [Onboarding and Tutorials](#onboarding-and-tutorials) - [file](/pages/Onboarding.md.html)
-* [Photo and Video](#photo-and-video) - [file](/pages/PhotoVideo.md.html)
-* [Progress Views](#progress-views) - [file](/pages/ProgressViews.md.html)
-* [RefreshControls](#refreshcontrols) - [file](/pages/RefreshControls.md.html)
-* [Side Menu](#side-menu) - [file](/pages/SideMenu.md.html)
-* [Tab Bars](#tab-bars) - [file](/pages/TabBars.md.html)
-* [Table/Collection Views](#tablecollection-views) - [file](/pages/TableCollectionViews.md.html)
-* [User Input](#user-input) - [file](/pages/UserInput.md.html)
+* [Animations and Transitions](#animations-and-transitions) - [file]
+* [Badges](#badges) - [file]
+* [Calendars](#calendars) - [file]
+* [Effects](#effects) - [file]
+* [Material Design](#material-design) - [file]
+* [Notifications and Alerts](#notifications-and-alerts) - [file]
+* [Onboarding and Tutorials](#onboarding-and-tutorials) - [file]
+* [Photo and Video](#photo-and-video) - [file]
+* [Progress Views](#progress-views) - [file]
+* [RefreshControls](#refreshcontrols) - [file]
+* [Side Menu](#side-menu) - [file]
+* [Tab Bars](#tab-bars) - [file]
+* [Table/Collection Views](#tablecollection-views) - [file]
+* [User Input](#user-input) - [file]
 
 Animations and Transitions
 ==========================

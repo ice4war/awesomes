@@ -38,7 +38,7 @@ tags:
  — Tom DeMarco[1]
 
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) list **for software developers to transition to an engineering management role**. Compiles advice, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
+A curated [![Awesome](https:// ʘ‿ʘ).
 
 - You're a developer and wonders what it feels like to be a manager?
 - You just started your first position as the leader of a team?

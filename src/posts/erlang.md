@@ -4,7 +4,7 @@ description: "Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awe
 tags: ['lisp', 'scheme', 'common-lisp']
 ---
 
-# Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Analytics](https://ga-beacon.appspot.com/UA-82766782-1/awesome-erlang?flat&useReferer)](https://github.com/drobakowski/awesome-erlang)
+# Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/flat&useReferer)](https://github.com/drobakowski/awesome-erlang)
 A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir).
 
 - [Awesome Erlang](#awesome-Erlang)

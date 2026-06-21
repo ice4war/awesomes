@@ -49,7 +49,7 @@ Become a sponsor
 
 
 
-# Awesome Certificates [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/3kSS9dvnPz)
+# Awesome Certificates [![Awesome](https://icon=discord&label)](https://discord.com/invite/3kSS9dvnPz)
 
 
 [Contribution guidelines](https://github.com/PanXProject/awesome-certificates/blob/main/CONTRIBUTING.md) /

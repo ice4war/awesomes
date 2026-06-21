@@ -12,7 +12,7 @@ tags: ['lisp', 'scheme', 'common-lisp']
 
 *Please read the [contribution guidelines](CONTRIBUTING.md.html) before contributing.*
 
-Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.com/fusetools)! 👋
+Like ` Reach out to me and say *hi* on [Twitter](https://twitter.com/fusetools)! 👋
 
 This list is currently unmaintained, and we are looking for a new maintainer. See [here](https://github.com/fuse-compound/awesome-fuse/issues/57) for details if you're interested.
 

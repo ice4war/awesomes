@@ -1,7 +1,7 @@
 ---
 title: Typedb Awesome
 description: A curated list of TypeDB resources.
-tags: ['data-science', 'data-analysis', 'databases', 'big-data', 'analytics']
+tags: ["data-science", "data-analysis", "databases", "big-data", "analytics"]
 ---
 
 [![TypeDB](https://github.com/typedb/typedb/blob/2c5e3114cb4d19085a329b379eef590d7a3e9eda/docs/banner.png)](https://typedb.com)
@@ -33,10 +33,10 @@ TypeDB is a [polymorphic](https://typedb.com/features#polymorphic-queries) datab
 - [`skills`](https://github.com/CaliLuke/skills) - A collection of agent skills, including a TypeDB skill for agent workflows.
 - [`TypeDB-ML`](https://github.com/vaticle/typedb-ml) - TypeDB-ML provides tools to enable graph algorithms and machine learning with TypeDB.
 - [`TypeDB Loader`](https://github.com/typedb-osi/typedb-loader) - An open-source data migrator for loading data into TypeDB at scale.
-- [`TypeDB OSI - Cyber Threat Intelligence`](https://github.com/typedb-osi/typedb-cti) - TypeDB CTI is an open source threat intelligence platform enabling threat intel professionals to bring together their disparate CTI information into one database 
-and find new insights about cyber threats.
-- [`TypeDB OSI - Biomedical Knowledge Graph`](https://github.com/typedb-osi/typedb-bio) - TypeDB Bio is an open source biomedical knowledge graph providing biomedical researchers an intuitive way to query interconnected and heterogeneous biomedical 
-data in one single place.
+- [`TypeDB OSI - Cyber Threat Intelligence`](https://github.com/typedb-osi/typedb-cti) - TypeDB CTI is an open source threat intelligence platform enabling threat intel professionals to bring together their disparate CTI information into one database
+  and find new insights about cyber threats.
+- [`TypeDB OSI - Biomedical Knowledge Graph`](https://github.com/typedb-osi/typedb-bio) - TypeDB Bio is an open source biomedical knowledge graph providing biomedical researchers an intuitive way to query interconnected and heterogeneous biomedical
+  data in one single place.
 - [`Source++`](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 - [`Rasa`](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
 - [`TypeBridge`](https://github.com/ds1sqe/type-bridge) - A modern, Pythonic ORM for TypeDB with an Attribute-based API that aligns with TypeDB's type system.

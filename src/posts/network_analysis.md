@@ -450,7 +450,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 - [Network Analysis in the Social Sciences](http://science.sciencemag.org/content/323/5916/892) (_Science_, 2009).
 - [Networks and Trade](https://doi.org/10.1146/annurev-economics-080217-053506) (_Annual Review of Economics_, 2018).
 - [Networks in Social Psychology, Beginning with Kurt Lewin](http://link.springer.com/10.1007%2F978-1-4614-6170-8_79) (_[Encyclopedia of Social Network Analysis and Mining](https://www.springer.com/us/book/9781461461692)_, 2014).
-- [Networks in the Understanding of Economic Behaviors](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.3) (_Journal of Economic Perspectives_, 2014).
+- [Networks in the Understanding of Economic Behaviors](https://www.aeid=10.1257/jep.28.4.3) (_Journal of Economic Perspectives_, 2014).
 - [Positions and Roles](http://sk.sagepub.com/reference/the-sage-handbook-of-social-network-analysis/n29.xml) (_[The SAGE Handbook of Social Network Analysis](http://www.sagepub.in/books/Book232753/)_, 2011).
 - [The Social and the Sexual: Networks in Contemporary Demographic Research](http://repository.upenn.edu/psc_working_papers/41/) (PSC Working Paper Series, 2013).
 - [Social Network Analysis in the Study of Terrorism and Political Violence](http://journals.cambridge.org/article_S1049096510001848) ([preprint](http://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=1048&context=pn_wp); _PS: Political Science and Politics_, 2011).
@@ -694,7 +694,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 ### R
 
-> For more awesome R resources, see the [Awesome R](https://github.com/qinwf/awesome-R) and [Awesome R Books](https://github.com/RomanTsegelskyi/rbooks) lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others. 
+> For more usp=sharing) by Ian McCulloh and others. 
 > To convert many different network model results into tidy data frames, see the [broom](https://CRAN.R-project.org/package=broom) package. To convert many different network model results into LaTeX or HTML tables, see the [texreg](https://CRAN.R-project.org/package=texreg) package.
 
 - [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.

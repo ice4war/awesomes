@@ -16,9 +16,9 @@ tags: ['lisp', 'scheme', 'common-lisp']
 
 **Check out the official [Hyper site](https://hyper.is), check out [Vercel](https://vercel.com), and their interesting Hosting product, [Now](https://vercel.com/home).**
 
-Want to add your awesome Hyper package, theme, or resource? Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
+Want to add your  Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
-Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang), [@matheusfrndes](https://twitter.com/matheusfrndes), and [@iamstarkov](https://twitter.com/iamstarkov) on Twitter and say *hi*! 👋
+Like ` Reach out to [@bitandbang](https://twitter.com/bitandbang), [@matheusfrndes](https://twitter.com/matheusfrndes), and [@iamstarkov](https://twitter.com/iamstarkov) on Twitter and say *hi*! 👋
 
 
 
@@ -82,7 +82,7 @@ Name and description | Downloads
 
 Name and description | Downloads
 -------------------- | -------------
-[hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyper, published right off the bat. You should import your favorite text editor or terminal theme and [add it to awesome-hyper](https://github.com/bnb/awesome-hyper/issues/new)! | [![npm](https://img.shields.io/npm/dm/hypertheme.svg?label=DL)](https://www.npmjs.com/package/hypertheme)
+[hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyper, published right off the bat. You should import your favorite text editor or terminal theme and [add it to label=DL)](https://www.npmjs.com/package/hypertheme)
 [hyper-blink](https://www.npmjs.com/package/hyper-blink) - Make your cursor blink. | [![npm](https://img.shields.io/npm/dm/hyper-blink.svg?label=DL)](https://www.npmjs.com/package/hyper-blink)
 [hyperborder](https://www.npmjs.com/package/hyperborder) - Add a gradient border with the same colors as in the Hyper logo. | [![npm](https://img.shields.io/npm/dm/hyperborder.svg?label=DL)](https://www.npmjs.com/package/hyperborder)
 [hyper-transparent-bg](https://www.npmjs.com/package/hyper-transparent-bg) - Add a transparent background to your Hyper through an interesting HTML hack. | [![npm](https://img.shields.io/npm/dm/hyper-transparent-bg.svg?label=DL)](https://www.npmjs.com/package/hyper-transparent-bg)
@@ -175,7 +175,7 @@ Name and description | Downloads
 [hyper-ayu-light](https://www.npmjs.com/package/hyper-ayu-light) - Theme based on the Ayu Light Theme for Sublime Text. | [![npm](https://img.shields.io/npm/dm/hyper-ayu-light.svg?label=DL)](https://www.npmjs.com/package/hyper-ayu-light)
 [hyper-ayu-light-special](https://www.npmjs.com/package/hyper-ayu-light-special) - Theme based on the Ayu Light Theme but added black for readability. | [![npm](https://img.shields.io/npm/dm/hyper-ayu-light-special.svg?label=DL)](https://www.npmjs.com/package/hyper-ayu-light-special)
 [hyper-ayu-mirage](https://www.npmjs.com/package/hyper-ayu-mirage) - Theme based on the Ayu Mirage Theme for Sublime Text. | [![npm](https://img.shields.io/npm/dm/hyper-ayu-mirage.svg?label=DL)](https://www.npmjs.com/package/hyper-ayu-mirage)
-[hyper-bloody](https://www.npmjs.com/package/hyper-bloody) - An amazing dark theme with awesome vibrant colors. | [![npm](https://img.shields.io/npm/dm/hyper-bloody.svg?label=DL)](https://www.npmjs.com/package/hyper-bloody)
+[hyper-bloody](https://www.npmjs.com/package/hyper-bloody) - An amazing dark theme with label=DL)](https://www.npmjs.com/package/hyper-bloody)
 [hyper-captain-sweetheart](https://www.npmjs.com/package/hyper-captain-sweetheart) - Tuff but sweet Hyper theme. | [![npm](https://img.shields.io/npm/dm/hyper-captain-sweetheart.svg?label=DL)](https://www.npmjs.com/package/hyper-captain-sweetheart)
 [hyper-chesterish](https://www.npmjs.com/package/hyper-chesterish) - Saturated theme based on Chester syntax. | [![npm](https://img.shields.io/npm/dm/hyper-chesterish.svg?label=DL)](https://www.npmjs.com/package/hyper-chesterish)
 [hyper-city-lights](https://www.npmjs.com/package/hyper-city-lights) - A dark theme based on the [City Lights](http://citylights.xyz) syntax. | [![npm](https://img.shields.io/npm/dm/hyper-city-lights.svg?label=DL)](https://www.npmjs.com/package/hyper-city-lights)
@@ -224,7 +224,7 @@ Name and description | Downloads
 [hyper-solarized-dark](https://www.npmjs.com/package/hyper-solarized-dark) - Pleasant and carefully chosen colors based on the popular [solarized](https://ethanschoonover.com/solarized/) palette. | [![npm](https://img.shields.io/npm/dm/hyper-solarized-dark.svg?label=DL)](https://www.npmjs.com/package/hyper-solarized-dark)
 [hyper-solarized-light](https://www.npmjs.com/package/hyper-solarized-light) - Pleasant and carefully chosen colors based on the popular [solarized](https://ethanschoonover.com/solarized/) palette. | [![npm](https://img.shields.io/npm/dm/hyper-solarized-light.svg?label=DL)](https://www.npmjs.com/package/hyper-solarized-light)
 [hyper-solarized-one](https://www.npmjs.com/package/hyper-solarized-one) - A 2-for-1 [Solarized](https://ethanschoonover.com/solarized/) theme for the Hyper Terminal. It knows what 🕐 it is... | [![npm](https://img.shields.io/npm/dm/hyper-solarized-one.svg?label=DL)](https://www.npmjs.com/package/hyper-solarized-one)
-[hyper-star-wars](https://www.npmjs.com/package/hyper-star-wars) - Super awesome, your Hyper terminal shall look. | [![npm](https://img.shields.io/npm/dm/hyper-star-wars.svg?label=DL)](https://www.npmjs.com/package/hyper-star-wars)
+[hyper-star-wars](https://www.npmjs.com/package/hyper-star-wars) - Super label=DL)](https://www.npmjs.com/package/hyper-star-wars)
 [hyper-sweet](https://www.npmjs.com/package/hyper-sweet) - A dark and modern theme with some neon for hyper. | [![npm](https://img.shields.io/npm/dm/hyper-sweet.svg?label=DL)](https://www.npmjs.com/package/hyper-sweet)
 [hyper-teatime](https://www.npmjs.com/package/hyper-teatime) - Light theme with sweet, pastel colors. | [![npm](https://img.shields.io/npm/dm/hyper-teatime.svg?label=DL)](https://www.npmjs.com/package/hyper-teatime)
 [hyper-tender](https://www.npmjs.com/package/hyper-tender) - A dark theme inspired by tender.vim. | [![npm](https://img.shields.io/npm/dm/hyper-tender.svg?label=DL)](https://www.npmjs.com/package/hyper-tender)
@@ -284,7 +284,7 @@ Name and description | Downloads
 [shades-of-purple-hyper](https://www.npmjs.com/package/shades-of-purple-hyper) - Professional Hyper™ theme with hand-picked & bold shades of purple. Purple can be genius. | [![npm](https://img.shields.io/npm/dm/shades-of-purple-hyper.svg?label=DL)](https://www.npmjs.com/package/shades-of-purple-hyper)
 [verminal](https://www.npmjs.com/package/verminal) - A dark Hyper theme with beautiful vibrancy. | [![npm](https://img.shields.io/npm/dm/verminal.svg?label=DL)](https://www.npmjs.com/package/verminal)
 
-Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
+Know of another really  [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 [⬆ Back to top](#contents)
 

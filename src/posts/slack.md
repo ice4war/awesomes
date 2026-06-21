@@ -20,7 +20,7 @@ tags: ['lisp', 'scheme', 'common-lisp']
 
 ***
 
-An avid Slack user? A developer looking for awesome tools to build out an integration? Just looking for inspiration? This is a list of all the best things Slack. 
+An avid Slack user? A developer looking for  This is a list of all the best things Slack. 
 
 - [:pencil: Lists](#pencil--lists)
 - [:art: Themes](#art--themes)

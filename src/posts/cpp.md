@@ -1607,7 +1607,7 @@ title: CPP
 # Other Awesome Lists
 *Other amazingly awesome lists*
 
-* [lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
+* [lists](https://github.com/jnv/lists) - List of  lists curated on GitHub.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 * [awesome](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 * [C++ links](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.

@@ -44,7 +44,7 @@ Contributions are welcome! Please [check out](contributing.md.html) our guidelin
 - Any list item with ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube) badge has YouTube videos or channel
 - Any list item with ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar) badge has a scientific paper or detailed description
 - Any list item with ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros) badge is [`ROS 2`](https://docs.ros.org/) compatible
-- Any list item with ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github) badge has a GitHub repo or organization, the star count badge ![](https://img.shields.io/github/stars/szenergy/awesome-lidar?color=yellow&style=flat-square&logo=github) shows the popularity of the repository
+- Any list item with ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github) badge has a GitHub repo or organization, the star count badge ![](https://img.shields.io/github/stars/szenergy/color=yellow&style=flat-square&logo=github) shows the popularity of the repository
 
 ## Manufacturers
 
@@ -313,23 +313,23 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
  - [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=FH7aBWDmSNA)
 
 ## Related awesome
-- [Awesome point cloud analysis ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme) ![](https://img.shields.io/github/stars/Yochengliu/awesome-point-cloud-analysis?color=yellow&style=flat-square&logo=github) 
-- [Awesome robotics ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Kiloreux/awesome-robotics#readme) ![](https://img.shields.io/github/stars/Kiloreux/awesome-robotics?color=yellow&style=flat-square&logo=github)
-- [Awesome robotics libraries ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/jslee02/awesome-robotics-libraries#readme) ![](https://img.shields.io/github/stars/jslee02/awesome-robotics-libraries?color=yellow&style=flat-square&logo=github)
-- [Awesome ROS 2 ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/fkromer/awesome-ros2#readme) ![](https://img.shields.io/github/stars/fkromer/awesome-ros2?color=yellow&style=flat-square&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
-- [Awesome artificial intelligence ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/owainlewis/awesome-artificial-intelligence#readme) ![](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence?color=yellow&style=flat-square&logo=github)
-- [Awesome computer vision ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/jbhuang0604/awesome-computer-vision#readme) ![](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?color=yellow&style=flat-square&logo=github)
-- [Awesome machine learning ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/josephmisiti/awesome-machine-learning#readme) ![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?color=yellow&style=flat-square&logo=github)
-- [Awesome deep learning ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ![](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?color=yellow&style=flat-square&logo=github)
-- [Awesome reinforcement learning ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/aikorea/awesome-rl/#readme) ![](https://img.shields.io/github/stars/aikorea/awesome-rl?color=yellow&style=flat-square&logo=github)
-- [Awesome SLAM datasets ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/youngguncho/awesome-slam-datasets#readme) ![](https://img.shields.io/github/stars/youngguncho/awesome-slam-datasets?color=yellow&style=flat-square&logo=github)
-- [Awesome electronics ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/kitspace/awesome-electronics#readme) ![](https://img.shields.io/github/stars/kitspace/awesome-electronics?color=yellow&style=flat-square&logo=github)
-- [Awesome vehicle security and car hacking ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/jaredthecoder/awesome-vehicle-security#readme) ![](https://img.shields.io/github/stars/jaredthecoder/awesome-vehicle-security?color=yellow&style=flat-square&logo=github)
+- [Awesome point cloud analysis ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Yochengliu/color=yellow&style=flat-square&logo=github) 
+- [Awesome robotics ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Kiloreux/color=yellow&style=flat-square&logo=github)
+- [Awesome robotics libraries ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/jslee02/color=yellow&style=flat-square&logo=github)
+- [Awesome ROS 2 ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/fkromer/style=flat-square&logo=ros)
+- [Awesome artificial intelligence ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/owainlewis/color=yellow&style=flat-square&logo=github)
+- [Awesome computer vision ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/jbhuang0604/color=yellow&style=flat-square&logo=github)
+- [Awesome machine learning ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/josephmisiti/color=yellow&style=flat-square&logo=github)
+- [Awesome deep learning ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/ChristosChristofidis/color=yellow&style=flat-square&logo=github)
+- [Awesome reinforcement learning ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/aikorea/color=yellow&style=flat-square&logo=github)
+- [Awesome SLAM datasets ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/youngguncho/color=yellow&style=flat-square&logo=github)
+- [Awesome electronics ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/kitspace/color=yellow&style=flat-square&logo=github)
+- [Awesome vehicle security and car hacking ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/jaredthecoder/color=yellow&style=flat-square&logo=github)
 - [Awesome LIDAR-Camera calibration ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration) ![](https://img.shields.io/github/stars/Deephome/Awesome-LiDAR-Camera-Calibration?color=yellow&style=flat-square&logo=github)
-- [Awesome LiDAR Place Recognition ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/hogyun2/awesome-lidar-place-recognition) ![](https://img.shields.io/github/stars/hogyun2/awesome-lidar-place-recognition?color=yellow&style=flat-square&logo=github)
+- [Awesome LiDAR Place Recognition ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/hogyun2/color=yellow&style=flat-square&logo=github)
 - [Awesome-LiDAR-MOS ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/neng-wang/Awesome-LiDAR-MOS) ![](https://img.shields.io/github/stars/neng-wang/Awesome-LiDAR-MOS?color=yellow&style=flat-square&logo=github) Moving Object Segmentation
-- [Awesome-LiDAR-Visual-SLAM ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) ![](https://img.shields.io/github/stars/sjtuyinjie/awesome-LiDAR-Visual-SLAM?color=yellow&style=flat-square&logo=github)
-- [Awesome LIDAR ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/szenergy/awesome-lidar) ![](https://img.shields.io/github/stars/szenergy/awesome-lidar?color=yellow&style=flat-square&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
+- [Awesome-LiDAR-Visual-SLAM ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/sjtuyinjie/color=yellow&style=flat-square&logo=github)
+- [Awesome LIDAR ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/szenergy/style=flat-square&logo=ros)
 
 ## Others
 - [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction](https://github.com/philipturner/scene-color-reconstruction).

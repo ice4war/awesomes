@@ -1,20 +1,12 @@
 ---
 title: "Cli Apps"
 description: "Proudly maintained by:"
-tags: ['shell', 'cli', 'bash', 'fish']
+tags: ["shell", "cli", "bash", "fish"]
 ---
 
+Proudly maintained by:
 
-	
-
-
-
- Proudly maintained by:
- 
- 
- jneidel.com
- 
-
+jneidel.com
 
 ---
 
@@ -26,87 +18,82 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
-
-
-
 - [Entertainment](#entertainment)
- - [Music](#music)
- - [Video](#video)
- - [Movies](#movies)
- - [Games](#games)
- - [Books](#books)
- - [Chat](#chat)
+- [Music](#music)
+- [Video](#video)
+- [Movies](#movies)
+- [Games](#games)
+- [Books](#books)
+- [Chat](#chat)
 - [Development](#development)
- - [Text Editors](#text-editors)
- - [Frontend Development](#frontend-development)
- - [Public localhost](#public-localhost)
- - [Mobile Development](#mobile-development)
- - [Database](#database)
- - [Devops](#devops)
- - [Docker](#docker)
- - [Release](#release)
- - [Npm](#npm)
- - [Boilerplate](#boilerplate)
- - [HTTP Server](#http-server)
- - [HTTP Client](#http-client)
- - [Testing](#testing)
+- [Text Editors](#text-editors)
+- [Frontend Development](#frontend-development)
+- [Public localhost](#public-localhost)
+- [Mobile Development](#mobile-development)
+- [Database](#database)
+- [Devops](#devops)
+- [Docker](#docker)
+- [Release](#release)
+- [Npm](#npm)
+- [Boilerplate](#boilerplate)
+- [HTTP Server](#http-server)
+- [HTTP Client](#http-client)
+- [Testing](#testing)
 - [Productivity](#productivity)
- - [Time Tracking](#time-tracking)
- - [Note Taking and Lists](#note-taking-and-lists)
- - [Finance](#finance)
- - [Presentations](#presentations)
- - [Calendars](#calendars)
+- [Time Tracking](#time-tracking)
+- [Note Taking and Lists](#note-taking-and-lists)
+- [Finance](#finance)
+- [Presentations](#presentations)
+- [Calendars](#calendars)
 - [Utilities](#utilities)
- - [macOS](#macos)
- - [Terminal Sharing Utilities](#terminal-sharing-utilities)
- - [SSH](#ssh)
- - [Network Utilities](#network-utilities)
- - [Theming and Customization](#theming-and-customization)
- - [Shell Utilities](#shell-utilities)
- - [System Interaction Utilities](#system-interaction-utilities)
- - [Markdown](#markdown)
- - [Security](#security)
- - [Math](#math)
- - [Academia](#academia)
- - [Weather](#weather)
- - [Browser Replacement](#browser-replacement)
- - [Internet Speedtest](#internet-speedtest)
- - [Science](#science)
- - [Professional: Resume](#professional-resume)
+- [macOS](#macos)
+- [Terminal Sharing Utilities](#terminal-sharing-utilities)
+- [SSH](#ssh)
+- [Network Utilities](#network-utilities)
+- [Theming and Customization](#theming-and-customization)
+- [Shell Utilities](#shell-utilities)
+- [System Interaction Utilities](#system-interaction-utilities)
+- [Markdown](#markdown)
+- [Security](#security)
+- [Math](#math)
+- [Academia](#academia)
+- [Weather](#weather)
+- [Browser Replacement](#browser-replacement)
+- [Internet Speedtest](#internet-speedtest)
+- [Science](#science)
+- [Professional: Resume](#professional-resume)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
- - [Processors](#processors)
- - [JSON](#json)
- - [YAML](#yaml)
- - [Columns](#columns)
- - [Text](#text)
+- [Processors](#processors)
+- [JSON](#json)
+- [YAML](#yaml)
+- [Columns](#columns)
+- [Text](#text)
 - [Files and Directories](#files-and-directories)
- - [File Managers](#file-managers)
- - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
- - [Disk Usage](#disk-usage)
- - [Files](#files)
- - [File Sync/Sharing](#file-syncsharing)
- - [Directory Listing](#directory-listing)
- - [Directory Navigation](#directory-navigation)
- - [Search](#search)
+- [File Managers](#file-managers)
+- [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
+- [Disk Usage](#disk-usage)
+- [Files](#files)
+- [File Sync/Sharing](#file-syncsharing)
+- [Directory Listing](#directory-listing)
+- [Directory Navigation](#directory-navigation)
+- [Search](#search)
 - [Version Control](#version-control)
- - [Git](#git)
- - [GitHub](#github)
- - [Emoji](#emoji)
+- [Git](#git)
+- [GitHub](#github)
+- [Emoji](#emoji)
 - [Images](#images)
- - [Gif Creation](#gif-creation)
- - [Image Conversion](#image-conversion)
+- [Gif Creation](#gif-creation)
+- [Image Conversion](#image-conversion)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
 - [Just for Fun](#just-for-fun)
- - [Emoji](#emoji-1)
+- [Emoji](#emoji-1)
 - [AI](#ai)
- - [Agents](#agents)
- - [LLM Interaction](#llm-interaction)
+- [Agents](#agents)
+- [LLM Interaction](#llm-interaction)
 - [Other Resources](#other-resources)
 - [License](#license)
-
-
 
 ---
 
@@ -257,7 +244,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 - [ctop](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 - [decompose](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
-- [kool](https://github.com/kool-dev/kool) - Web development with containers made easy. 
+- [kool](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Release
 
@@ -786,9 +773,11 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
 ## AI
+
 Inclusion criteria are less strict for this fast-moving field.
 
 ### Agents
+
 - [greywall](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
@@ -797,6 +786,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [InkOS](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
 
 ### LLM Interaction
+
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 

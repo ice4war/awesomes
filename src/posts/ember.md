@@ -1378,7 +1378,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Open Source Live - Robert Jackson and Chris Manson pair on ember-cli](https://www.youtube.com/watch?v=rsftBMGOfyo)
 - [Must have add-ons in EmberJS - Dawid Pośliński](https://www.youtube.com/watch?v=IprfNT0xbrI)
 - [Building Modern Apps Using API Services - Ember Meetup August 21, 2018](https://www.youtube.com/watch?v=VMnzGJ4PN0s)
-- [How to improve your tests? - Paweł Kuwik](https://www.youtube.com/watch?v=rs71sx5IZ-U&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
+- [How to improve your tests? - Pv=rs71sx5IZ-U&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
 - [Optional & upcoming features - Michał Staśkiewicz](https://www.youtube.com/watch?v=4XokzPT4rgg&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
 - [Hybrid Apps with Ember/Glimmer](https://pusher.com/sessions/meetup/emberfest/hybrid-apps-with-emberglimmer)
 - [Productive Frontend Test Driven Development That Actually Works](https://www.youtube.com/watch?v=63Ya91f8W-8)

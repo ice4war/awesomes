@@ -1,10 +1,10 @@
 ---
 title: "Latex"
-description: "Awesome LaTeX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://creativ"
-tags: ['lisp', 'scheme', 'common-lisp']
+description: "Awesome LaTeX [![Awesome](https://style=flat)](https://creativ"
+tags: ["lisp", "scheme", "common-lisp"]
 ---
 
-# Awesome LaTeX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://creativecommons.org/licenses/by-sa/4.0/)
+# Awesome LaTeX [![Awesome](https://style=flat)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 [![LaTeX Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/220px-LaTeX_logo.svg.png)](https://www.latex-project.org/)
 
@@ -12,47 +12,43 @@ tags: ['lisp', 'scheme', 'common-lisp']
 
 ## Contents
 
-
-
 - [Awesome LaTeX ](#awesome-latex--)
- - [Contents](#contents)
- - [Learning LaTeX](#learning-latex)
- - [Distributions](#distributions)
- - [Docker Images](#docker-images)
- - [Engines](#engines)
- - [LaTeX formulas on the web](#latex-formulas-on-the-web)
- - [Editors](#editors)
- - [LaTeX-focused](#latex-focused)
- - [General purpose text editors](#general-purpose-text-editors)
- - [Online editors](#online-editors)
- - [Bibliography tools](#bibliography-tools)
- - [Build Tools](#build-tools)
- - [GitHub Actions](#github-actions)
- - [Misc. Tools](#misc-tools)
- - [Quality Check Tools](#quality-check-tools)
- - [Tools centered around equations](#tools-centered-around-equations)
- - [LaTeX-compatible GUI tools](#latex-compatible-gui-tools)
- - [Packages](#packages)
- - [References](#references)
- - [Tables](#tables)
- - [Graphics](#graphics)
- - [PSTricks](#pstricks)
- - [TikZ](#tikz)
- - [Source Code](#source-code)
- - [Typography](#typography)
- - [Presentations, Slides](#presentations-slides)
- - [Templates](#templates)
- - [Symbols](#symbols)
- - [Resources](#resources)
- - [Showcases](#showcases)
- - [Tutorials](#tutorials)
- - [Books](#books)
- - [Blogs](#blogs)
- - [Social media](#social-media)
- - [Meta Awesome-LaTeX](#meta-awesome-latex)
- - [Legend](#legend)
-
-
+- [Contents](#contents)
+- [Learning LaTeX](#learning-latex)
+- [Distributions](#distributions)
+- [Docker Images](#docker-images)
+- [Engines](#engines)
+- [LaTeX formulas on the web](#latex-formulas-on-the-web)
+- [Editors](#editors)
+- [LaTeX-focused](#latex-focused)
+- [General purpose text editors](#general-purpose-text-editors)
+- [Online editors](#online-editors)
+- [Bibliography tools](#bibliography-tools)
+- [Build Tools](#build-tools)
+- [GitHub Actions](#github-actions)
+- [Misc. Tools](#misc-tools)
+- [Quality Check Tools](#quality-check-tools)
+- [Tools centered around equations](#tools-centered-around-equations)
+- [LaTeX-compatible GUI tools](#latex-compatible-gui-tools)
+- [Packages](#packages)
+- [References](#references)
+- [Tables](#tables)
+- [Graphics](#graphics)
+- [PSTricks](#pstricks)
+- [TikZ](#tikz)
+- [Source Code](#source-code)
+- [Typography](#typography)
+- [Presentations, Slides](#presentations-slides)
+- [Templates](#templates)
+- [Symbols](#symbols)
+- [Resources](#resources)
+- [Showcases](#showcases)
+- [Tutorials](#tutorials)
+- [Books](#books)
+- [Blogs](#blogs)
+- [Social media](#social-media)
+- [Meta Awesome-LaTeX](#meta-awesome-latex)
+- [Legend](#legend)
 
 ## Learning LaTeX
 
@@ -117,28 +113,28 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!
 
 - [Atom](https://atom.io) [![Atom][awesome]](https://github.com/mehcode/awesome-atom) ![foss]
- - [LaTeXTools](https://atom.io/packages/latextools) - Atom port of the Sublime Text package of the same name. ![foss]
+- [LaTeXTools](https://atom.io/packages/latextools) - Atom port of the Sublime Text package of the same name. ![foss]
 
 - [Sublime Text](https://www.sublimetext.com) [![Sublime Text][awesome]](https://github.com/dreikanter/sublime-bookmarks)
- - [LaTeXing](https://github.com/LaTeXing/LaTeXing) - Free plug-in to edit LaTeX. ![foss]
- - [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss]
+- [LaTeXing](https://github.com/LaTeXing/LaTeXing) - Free plug-in to edit LaTeX. ![foss]
+- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss]
 
 - [Emacs](https://www.gnu.org/software/emacs/) [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ![foss]
- - [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss]
- - [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss]
+- [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss]
+- [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss]
 
 - [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ![foss]
- - [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
- - [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss]
- - [vimtex](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
+- [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
+- [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss]
+- [vimtex](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
- - [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss]
+- [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss]
 
 - [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ![foss]
- - [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) - LaTeX extension for Visual Studio Code ![foss]
- - [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool grammar/spell checking ![foss]
- - [a-nau/latex-devcontainer](https://github.com/a-nau/latex-devcontainer) - Devcontainer setup for easy LaTeX usage without local installation ![foss]
+- [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) - LaTeX extension for Visual Studio Code ![foss]
+- [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool grammar/spell checking ![foss]
+- [a-nau/latex-devcontainer](https://github.com/a-nau/latex-devcontainer) - Devcontainer setup for easy LaTeX usage without local installation ![foss]
 
 ### Online editors
 
@@ -150,21 +146,21 @@ Online editors that allow you to edit documents collaboratively.
 - [Modern LaTeX Editor](https://github.com/InMDev/Modern-LaTeX-Editor) - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
 - [Octree](https://www.useoctree.com) - Online editor with AI writing assistance.
 - [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
- - [olcli](https://github.com/aloth/olcli) - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
+- [olcli](https://github.com/aloth/olcli) - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
 - [SciTeX Cloud](https://github.com/ywatanabe1989/scitex-cloud) - Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools). ![foss]
 - [WebLaTeX](https://github.com/sanjib-sen/weblatex) - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
 - [Papeeria](https://papeeria.com) - Online editor with built-in git support.
 - [JaxEdit](https://zohooo.GitHub.io/jaxedit/) - Online LaTeX editor with Live Preview and nice presentation mode.
-- [Vexlio](https://vexlio.com/) - Online diagram editor with built-in LaTeX equation support including live preview and easy exports. 
+- [Vexlio](https://vexlio.com/) - Online diagram editor with built-in LaTeX equation support including live preview and easy exports.
 - [TeXbrain](https://tex.swimmingbrain.dev) - Free, open-source browser-based LaTeX editor with in-browser compilation, live PDF preview and Git integration. No account or install required. ![foss]
 
 ## Bibliography tools
 
 - [JabRef](https://www.jabref.org) - Very powerful cross-platform (Java) bibtex editor. ![mac] ![windows] ![linux] ![foss]
 - [Papis](https://github.com/papis/papis) - Extremely customizable,
- powerful and simple cross-platform (Python) library manager. It has a very
- complete Command-Line-Interface, several GUIs and scripting capability.
- ![linux] ![mac] ![foss]
+  powerful and simple cross-platform (Python) library manager. It has a very
+  complete Command-Line-Interface, several GUIs and scripting capability.
+  ![linux] ![mac] ![foss]
 - [Bibdesk](http://bibdesk.sourceforge.net) - Great bibliography editor for ![mac].
 - [Zotero](https://www.zotero.org) - Reference manager for your browser that also exports to bibtex and integrates with many LaTeX editors. ![mac] ![windows] ![linux] ![foss]
 - [Mendeley](https://www.mendeley.com) - Both an app and cloud client to manage your references and PDFs. Can sync out to a bibtex file for your LaTeX workflow. ![mac] ![windows] ![linux]
@@ -314,7 +310,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [LaTeX Graphics Companion, M. Goossens (2007)](https://www.informit.com/store/latex-graphics-companion-9780321508928)
 - [TeX by Topic (2007)](https://ctan.org/pkg/texbytopic)
 - [TeX for the Impatient (2020)](https://ctan.org/pkg/impatient)
-- [Formatting Information (2020)](https://latex.silmaril.ie/formattinginformation) - This is the HTML5-based online version of the book *Formatting Information - An introduction to typesetting with LATEX*. It has been continuously updated since the early 2000s.
+- [Formatting Information (2020)](https://latex.silmaril.ie/formattinginformation) - This is the HTML5-based online version of the book _Formatting Information - An introduction to typesetting with LATEX_. It has been continuously updated since the early 2000s.
 
 ## Blogs
 
@@ -332,22 +328,20 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
 ---
 
-
-
 ## Meta Awesome-LaTeX
 
 If you want to contribute, please do read our [CONTRIBUTING](CONTRIBUTING.md.html) guidelines.
 
 ## Legend
 
-The icons indicating Mac, Linux and Windows compatibility show when a program is *only* available for those platforms. So absence of those icons means that the software is fully cross-platform.
+The icons indicating Mac, Linux and Windows compatibility show when a program is _only_ available for those platforms. So absence of those icons means that the software is fully cross-platform.
 
-| Logo | Description |
-|:-------------------:|:-------------------------------------------------------|
-| ![mac] | [macOS](https://www.apple.com/macos) |
-| ![linux] | [GNU/Linux](https://www.gnu.org) |
+|    Logo    | Description                                            |
+| :--------: | :----------------------------------------------------- |
+|   ![mac]   | [macOS](https://www.apple.com/macos)                   |
+|  ![linux]  | [GNU/Linux](https://www.gnu.org)                       |
 | ![windows] | [Microsoft Windows](https://www.microsoft.com/windows) |
-| ![FOSS] | [Free Open-Source Software](https://opensource.org) |
+|  ![FOSS]   | [Free Open-Source Software](https://opensource.org)    |
 
 ---
 
